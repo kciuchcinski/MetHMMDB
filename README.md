@@ -35,4 +35,6 @@ For more detailed usage, including output options, we recommend reading the HMME
 
 ---
 # Citation
+The paper is currently under review. In the meantime, you can find it on bioRxiv: 10.1101/2024.12.26.629440v2
+
 If you use MetHMMDB in your research, please cite our work (citation details to be added upon publication).
