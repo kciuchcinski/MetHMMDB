@@ -1,10 +1,4 @@
 <script setup lang="ts">
-import {
-  NavigationMenu,
-  NavigationMenuItem,
-  NavigationMenuLink,
-  NavigationMenuList,
-} from '@/components/ui/navigation-menu'
 import { Button } from '@/components/ui/button'
 import { Github } from 'lucide-vue-next'
 </script>
