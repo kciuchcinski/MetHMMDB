@@ -1,0 +1,255 @@
+hmm_name	rep_sequence	best_foldseek_hit	foldseek_hit_evalue	metal	resistance_type
+Ag_ATPase_1	EBB4335456.1_silP-1	Q9ZHC7	0.0	Ag	Silver exporting P-type ATPase
+Ag_efflux_silA_1	silA-1	Q9ZHC9	0.0	Ag	Putative cation efflux system protein SilA
+Ag_lipoprotein_silC_1	EJI3745292.1_silC-1	Q9ZHD2	3.515e-62	Ag	Probable outer membrane lipoprotein SilC
+Ag_membrane_silB_1	silB-1	Q9ZHD0	1.4060000000000002e-71	Ag	Putative membrane fusion protein SilB
+As_glutaredoxin_1	pdb_2L17_A	P74313	3.665e-25	As	Glutaredoxin arsenate reductase
+As_lyase_1	sp_P08653_MERB_STAAU_merB-1	P08653	1.25e-41	As	Alkylmercury lyase
+As_lyase_2	EKY1719590.1_merB-2	Q8G9P0	5.627e-32	As	Alkylmercury lyase
+As_lyase_3	WP_265177140.1_merB-2	Q8G9P0	5.387e-35	As	Alkylmercury lyase
+As_methyltransferase_1	WP_282434568.1_arsM-1	A0A0D3MJQ5	2.76e-54	As	Arsenite methyltransferase
+As_methyltransferase_2	AIZ47987.1_arsM-4	Q6N3Y0	3.158e-18	As	Arsenite methyltransferase
+As_methyltransferase_3	WP_271100506.1_arsM-4	Q6N3Y0	1.029e-55	As	Arsenite methyltransferase
+As_methyltransferase_4	arsM-3	U2ZU49	8.654999999999999e-75	As	Arsenite methyltransferase
+As_oxidase_aioA_1	CBX43995.1_aoxB-1	Q7SIF4	0.0	As	Arsenite oxidase subunit AioA
+As_oxidase_aioA_2	aioA-1	Q7SIF4	0.0	As	Arsenite oxidase subunit AioA
+As_oxidase_aioA_3	aioA-2	Q7SIF4	0.0	As	Arsenite oxidase subunit AioA
+As_oxidase_aioA_4	aioA-3	Q8GGJ6	0.0	As	Arsenite oxidase subunit AioA
+As_oxidase_aioB_1	KVK59313.1_aioB-2	Q7SIF3	4.981e-18	As	Arsenite oxidase subunit AioB
+As_oxidase_aioB_2	ABB51929.1_aioB-2	Q8GGJ7	2.767e-18	As	Arsenite oxidase subunit AioB
+As_oxidase_aioB_3	WP_076592144.1_aioB-3	Q8GGJ7	3.7630000000000002e-28	As	Arsenite oxidase subunit AioB
+As_oxidase_aioB_4	pdb_5NQD_B	Q8GGJ7	1.447e-15	As	Arsenite oxidase subunit AioB
+As_pump_1	EGF64286.1_arsB-9	P0AB94	2.003e-56	As	Arsenical pump membrane protein
+As_pump_2	MBB1200709.1_arsB-6	P74985	4.9050000000000005e-56	As	Arsenical pump membrane protein
+As_pump_3	HDT7011347.1_arsB-4	Q01255	8.421e-56	As	Arsenical pump membrane protein
+As_pump_4	AVP80804.1_sp_Q8CQF4_ARSB_STAES_arsB-4	Q8CQF4	3.833e-56	As	Arsenical pump membrane protein
+As_pump_5	ARR90322.1_arsA-3	O50593	1.333e-93	As	Arsenical pump-driving ATPase
+As_pump_6	WP_233109063.1_arsA-1	P08690	9.852999999999999e-90	As	Arsenical pump-driving ATPase
+As_pump_7	arsA-2	P52145	9.182000000000001e-99	As	Arsenical pump-driving ATPase
+As_pump_8	arsA-4	P52145	8.915000000000001e-76	As	Arsenical pump-driving ATPase
+As_reductase_1	sp_A6QHV6_ARSC_STAAE_arsC-8	A8Z4K0	3.583e-27	As	Arsenate reductase
+As_reductase_2	sp_O50595_ARSC_ACIMA_arsC-1	O50595	1.21e-28	As	Arsenate reductase
+As_reductase_3	WP_268284620.1_arsC-9	P45947	7.984e-28	As	Arsenate reductase
+As_reductase_4	arsC-7	P74984	2.5159999999999998e-29	As	Arsenate reductase
+As_reductase_5	WP_107613642.1_sp_Q4LAB5_ARSC1_STAHJ_arsC-4	Q4LAB5	3.26e-25	As	Arsenate reductase 1
+As_res_Acr3_1	acr3-3	Q8NQC8	2.256e-47	As	Arsenical-resistance protein Acr3
+As_res_Acr3_2	WP_012062243.1_acr3-1	A6TP80	2.379e-41	Non-specific	Arsenical-resistance protein Acr3
+As_res_arsB_1	EAK1995032.1_acr3-4	P45946	3.011e-27	As	Arsenite resistance protein ArsB
+As_res_arsB_2	EHA31226.1_arsB-7	P45946	5.184e-41	As	Arsenite resistance protein ArsB
+Cation_ATPase_1	sp_P63690_CTPG_MYCBO_cmtA-1	P9WPS6	0.0	Non-specific	Probable cation-transporting ATPase G
+Cation_efflux_fieF_1	WP_085449461.1_sp_B7LVD0_FIEF_ESCF3_fieF-1	B7LVD0	1.663e-49	Non-specific	Cation-efflux pump FieF
+Cation_symport_actP_1	ETD01527.1_actP-4	Q8ZJ73	1.991e-49	Non-specific	Cation/acetate symporter ActP
+Cation_tolerance_cutA_1	pdb_3OPK_A	B5F2K4	1.665e-21	Non-specific	Divalent-cation tolerance protein CutA
+Cation_tolerance_cutA_2	AAN83641.1_sp_B7MSF8_CUTA_ECO81_cutA-1	Q1R3C3	3.618e-21	Non-specific	Divalent-cation tolerance protein CutA
+Cation_transport_mntH_1	WP_263094168.1_sp_A4WD10_MNTH_ENT38_mntH-1	A4WD10	1.63e-48	Non-specific	Divalent metal cation transporter MntH
+Cation_transport_mntH_2	EEC3815513.1_sp_B4TQE4_MNTH_SALSV_mntH-1	Q8Z4X5	2.459e-48	Non-specific	Divalent metal cation transporter MntH
+Cd_ATPase_1	ARX60739.1_sp_P37386_CADA2_STAAU_cadB-1	P37386	0.0	Cd	Probable cadmium-transporting ATPase
+Cd_ATPase_10	nia-1	Q6GIX1	2.5879999999999998e-45	Cd	Probable cadmium-transporting ATPase
+Cd_ATPase_2	CAA4040664.1_cadB-1	P37386	4.758e-41	Cd	Probable cadmium-transporting ATPase
+Cd_ATPase_3	MCA3232978.1_pbrA-1	P37386	7.823e-68	Cd	Probable cadmium-transporting ATPase
+Cd_ATPase_4	WP_171517104.1_czcP-1	P37386	2.0809999999999998e-60	Cd	Probable cadmium-transporting ATPase
+Cd_ATPase_5	WP_191962215.1_cadB-1	P37386	3.269e-44	Cd	Probable cadmium-transporting ATPase
+Cd_ATPase_6	WP_243465679.1_cadB-1	P37386	4.272e-39	Cd	Probable cadmium-transporting ATPase
+Cd_ATPase_7	cadB-1	P37386	2.73e-32	Cd	Probable cadmium-transporting ATPase
+Cd_ATPase_8	cadA-1	Q60048	2.273e-102	Cd	Probable cadmium-transporting ATPase
+Cd_ATPase_9	WP_225841567.1_cadA-5	Q6GIX1	4.3490000000000004e-104	Cd	Probable cadmium-transporting ATPase
+Cd_protein_ygiW_1	MBD7808434.1_ncrY-2	P0ADU5	9.426e-11	Cd	Protein YgiW
+CdCoZn_antiport_1	WP_186425552.1_dmeF-1	A7Z1S6	6.149e-16	Cd, Co, Zn	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+CdCoZn_antiport_2	czcD-2	O07084	3.763e-42	Cd, Co, Zn	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+CdCoZn_ATPase_1	GIN31416.1_yvgW-1	O32219	1.796e-87	Cd, Co, Zn	Cadmium, zinc and cobalt-transporting ATPase
+CdCoZn_ATPase_2	sp_O32219_CADA_BACSU_cadA-4	O32219	0.0	Cd, Co, Zn	Cadmium, zinc and cobalt-transporting ATPase
+CdCoZn_ATPase_3	sp_Q59465_HMCT_HELPY_cadA-2	Q59465	0.0	Cd, Co, Zn	Cadmium, zinc and cobalt-transporting ATPase
+CdCoZn_efflux_czcA_1	czrA-3	P94177	0.0	Cd, Co, Zn	Cation efflux system protein CzcA
+CdCoZn_efflux_czcA_2	WP_112058958.1_cznA-2	P13511	3.62e-92	Cd, Co, Zn	Cobalt-zinc-cadmium resistance protein CzcA
+CdCoZn_efflux_czcA_3	WP_115055960.1_cznA-1	P13511	2.014e-91	Cd, Co, Zn	Cobalt-zinc-cadmium resistance protein CzcA
+CdCoZn_efflux_czcA_4	WP_190595546.1_nrsA-2	P13511	1.1779999999999999e-89	Cd, Co, Zn	Cobalt-zinc-cadmium resistance protein CzcA
+CdCoZn_efflux_czcA_5	sp_P13511_CZCA_CUPMC_czcA-2	P13511	0.0	Cd, Co, Zn	Cobalt-zinc-cadmium resistance protein CzcA
+CdCoZn_efflux_czcB_1	HBP2906069.1_czrB-1	P94176	5.121e-57	Cd, Co, Zn	Cation efflux system protein CzcB
+CdCoZn_efflux_czcB_2	WP_017510529.1_czcB-2	P13510	1.2720000000000002e-84	Cd, Co, Zn	Cobalt-zinc-cadmium resistance protein CzcB
+CdCoZn_efflux_czcB_3	WP_306008882.1_ncrC-2	P13510	2.333e-05	Cd, Co, Zn	Cobalt-zinc-cadmium resistance protein CzcB
+CdCoZn_efflux_czcB_4	ncrC-2	P13510	4.038e-05	Cd, Co, Zn	Cobalt-zinc-cadmium resistance protein CzcB
+CdCoZn_efflux_czcB_5	zneB-1	P13510	2.012e-30	Cd, Co, Zn	Cobalt-zinc-cadmium resistance protein CzcB
+CdCoZn_efflux_czcC_1	sp_P13509_CZCC_CUPMC_czcC-2	P13509	1.4139999999999998e-54	Cd, Co, Zn	Cobalt-zinc-cadmium resistance protein CzcC
+CdCoZn_efflux_czcD_1	WP_041936231.1_dmeF-2	P94178	3.005e-16	Cd, Co, Zn	Cation efflux system protein CzcD
+CdCoZn_efflux_czcD_2	sp_P94178_CZCD_ALCSC_czcD-1	P94178	1.763e-46	Cd, Co, Zn	Cation efflux system protein CzcD
+Co_methylmutase_1	corR-2	O87692	1.023e-14	Co	Cobalt-precorrin-8 methylmutase
+Co_transport_nhlF_1	sp_P96454_NHLF_RHORH_nhlF-1	P96454	1.648e-40	Co	Cobalt transport protein NhlF
+CoMg_protein_apaG_1	sp_A1A799_APAG_ECOK1_corD-1	Q0T8E5	1.916e-23	Co, Mg	Protein ApaG
+Cr_protein_chrB_1	chrB1-1	P17552	1.973e-57	Cr	Protein ChrB
+Cr_transport_1	WP_153565820.1_chrA-2	P14285	2.923e-49	Cr	Chromate transport protein
+Cr_transport_2	WP_208672803.1_srpC-1	Q55027	3.74e-46	Cr	Probable chromate transport protein
+Cr_transport_3	CBL87892.1_chrA-3	P17551	6.202e-18	Cr	Chromate transport protein
+Cr_transport_4	MCA3235718.1_chrA1-1	P17551	1.186e-45	Cr	Chromate transport protein
+Cr_transport_5	WP_315596027.1_chrA1-1	P17551	2.4070000000000003e-46	Cr	Chromate transport protein
+Cu_ATPase_1	sp_O29777_COPA_ARCFU_copA-13	O29777	0.0	Cu	Probable copper-exporting P-type ATPase
+Cu_ATPase_2	AAK45246.1_ctpV-2	P9WPS2	0.0	Cu	Probable copper-exporting P-type ATPase V
+Cu_ATPase_3	AUS50053.1_ctpV-1	P9WPS2	1.2889999999999999e-51	Cu	Probable copper-exporting P-type ATPase V
+Cu_ATPase_4	sp_P32113_COPA_ENTHA_copA-10	P32113	0.0	Cu	Probable copper-importing P-type ATPase A
+Cu_ATPase_5	WP_027066245.1_merT-P-1	Q9SH30	2.899e-07	Cu	Probable copper-transporting ATPase HMA5
+Cu_ATPase_pacS_1	sp_P37279_ATCS_SYNE7_pacS-1	P37279	0.0	Cu	Probable copper-transporting ATPase PacS
+Cu_ATPase_pacS_2	WP_194018813.1_pacS-2	P73241	6.493e-104	Cu	Probable copper-transporting ATPase PacS
+Cu_binding_pcoE_1	pcoE-1	Q47459	4.621e-11	Cu	Probable copper-binding protein PcoE
+Cu_chaperone_copZ_1	pdb_1K0V_A	O32221	6.294e-12	Cu	Copper chaperone CopZ
+Cu_chaperone_copZ_2	copZ-1	Q47840	1.459e-13	Cu	Copper chaperone CopZ
+Cu_COP_associated_1	WP_158655755.1_copP-2	O32620	6.18e-12	Cu	COP-associated protein
+Cu_COP_associated_2	WP_000648266.1_sp_Q48271_COPP_HELPY_copP-1	Q48271	6.844e-12	Cu	COP-associated protein
+Cu_oxidase_cueO_1	EDU66368.1_cueO-2	P36649	6.680999999999999e-103	Cu	Multicopper oxidase CueO
+Cu_oxidase_cueO_2	AIE04103.1_cueO-1	Q8Z9E1	0.0	Cu	Multicopper oxidase CueO
+Cu_oxidase_mco_1	mco-1	Q6GIX3	4.988e-89	Cu	Multicopper oxidase mco
+Cu_oxidase_mmcO_1	EFP14046.1_mmcO-1	I6WZK7	0.0	Cu	Multicopper oxidase MmcO
+Cu_oxidase_mmcO_2	WP_023913439.1_cutO-1	I6WZK7	4.846e-40	Cu	Multicopper oxidase MmcO
+Cu_PF03932_cutC_1	pdb_1X7I_A	Q3Z2Q2	4.035e-52	Cu	PF03932 family protein CutC
+Cu_resistance_A_1	HEL4247883.1_copA-2	P12374	5.7140000000000003e-98	Cu	Copper resistance protein A
+Cu_resistance_A_2	WP_122222878.1_copA-9	P12374	0.0	Cu	Copper resistance protein A
+Cu_resistance_A_3	copA-15	P12374	0.0	Cu	Copper resistance protein A
+Cu_resistance_A_4	VTN74637.1_pcoA-1	Q47452	0.0	Cu	Copper resistance protein A
+Cu_resistance_B_1	WP_234712347.1_copB-4	P12375	4.747e-35	Cu	Copper resistance protein B
+Cu_resistance_B_2	WP_260294943.1_copB-4	P12375	5.354e-36	Cu	Copper resistance protein B
+Cu_resistance_B_3	ABF67803.1_pcoB-1	Q47453	8.96e-45	Cu	Copper resistance protein B
+Cu_resistance_C_1	copC-2	P12376	6.873e-18	Cu	Copper resistance protein C
+Cu_resistance_C_2	sp_P12376_COPC_PSEUB_copC-4	P12376	8.129000000000001e-20	Cu	Copper resistance protein C
+Cu_resistance_C_3	pcoC-1	Q47454	1.648e-22	Cu	Copper resistance protein C
+Cu_resistance_C_4	copC-3	Q56797	2.168e-13	Cu	Copper resistance protein C
+Cu_resistance_D_1	copD-2	P12377	4.0890000000000006e-26	Cu	Copper resistance protein D
+Cu_resistance_D_2	MCV2936782.1_pcoD-1	Q47455	2.2059999999999998e-33	Cu	Copper resistance protein D
+Cu_resistance_D_3	WP_016775437.1_copD-1	Q9KWM8	1.5350000000000001e-21	Cu	Copper resistance protein D
+Cu_resistance_K_1	copK-1	Q58AD3	1.64e-11	Cu	Copper resistance protein K
+Cu_transport_ATPase_1	AFQ59202.1_copA-5	O32220	0.0	Cu	Copper-exporting P-type ATPase
+Cu_transport_ATPase_10	actP-1	Q9X5V3	0.0	Cu	Copper-transporting P-type ATPase
+Cu_transport_ATPase_11	actP-3	Q9X5X3	0.0	Cu	Copper-transporting P-type ATPase
+Cu_transport_ATPase_2	sp_Q59385_COPA_ECOLI_copA-8	Q59385	0.0	Cu	Copper-exporting P-type ATPase
+Cu_transport_ATPase_3	copA-16	Q5ZWR1	0.0	Cu	Copper-exporting P-type ATPase
+Cu_transport_ATPase_4	WP_095180886.1_cueA-1	Q6G6B7	5.549e-76	Cu	Copper-exporting P-type ATPase
+Cu_transport_ATPase_5	tcrB-1	P05425	1.922e-77	Cu	Copper-exporting P-type ATPase B
+Cu_transport_ATPase_6	copA-6	O32619	0.0	Cu	Copper-transporting ATPase
+Cu_transport_ATPase_7	sp_P55989_COPA_HELPY_copA-1	P55989	0.0	Cu	Copper-transporting ATPase
+Cu_transport_ATPase_8	AFD57387.1_golT-1	P58342	6.685999999999999e-88	Cu	Copper-transporting ATPase 2
+Cu_transport_ATPase_9	WP_279448349.1_merP-6	Q9S7J8	1.783e-08	Cu	Copper-transporting ATPase RAN1
+Cu_transport_mctB_1	WP_057172227.1_mctB-2	P9WJ83	8.164e-59	Cu	Copper transporter MctB
+Cu_transport_ycnJ_1	AFQ56332.1_ycnJ-1	C0SP95	7.119e-84	Cu	Copper transport protein YcnJ
+Cu_transport_ycnJ_2	crdA-1	C0SP95	0.000212	Cu	Copper transport protein YcnJ
+CuAg_cusA_1	pdb_3K07_A	P38054	0.0	Cu, Ag	Cation efflux system protein CusA
+CuAg_cusB_1	HCN4521537.1_cusB-1	P77239	5.08e-67	Cu, Ag	Cation efflux system protein CusB
+CuAg_cusC_1	HAI4003789.1_sp_Q8CWA4_CUSC_ECOL6_cusC-2	P77211	5.044e-61	Cu, Ag	Cation efflux system protein CusC
+CuAg_cusF_1	sp_Q8CWA3_CUSF_ECOL6_cusF-1	Q8XBY2	2.872e-20	Cu, Ag	Cation efflux system protein CusF
+CuNi_ATPase_1	WP_003896801.1_ctpD-1	A0R3A7	2.884e-98	Cu, Ni	Probable cobalt/nickel-exporting P-type ATPase
+Fe_binding_yfeA_1	yfeA-1	Q56952	7.386e-54	Fe	Iron-binding protein YfeA
+Fe_ferripyoverdine_receptor_1	fpvA-1	P48632	0.0	Fe	Ferripyoverdine receptor
+Fe_periplasmic_1	sp_P35755_FBPA_HAEIN_fbpA-1	P35755	4.977e-62	Fe	Iron-utilization periplasmic protein
+Fe_permease_efeU_1	pbrT-1	P39595	2.14e-11	Fe	Iron permease EfeU
+Fe_pyochelin_1	fptA-1	P42512	0.0	Fe	Fe(3+)-pyochelin receptor
+Fe_superoxide_dismutase_1	chrC-1	P17550	2.792e-34	Fe	Superoxide dismutase [Fe]
+Fe_transport_1	NSL63498.1_yfeB-1	Q56953	7.23e-60	Fe	Chelated iron transport system membrane protein YfeB
+Fe_transport_2	yfeC-1	Q56954	4.681e-36	Fe	Chelated iron transport system membrane protein YfeC
+Fe_transport_3	yfeD-1	Q56955	1.609e-34	Fe	Chelated iron transport system membrane protein YfeD
+Fe_transport_fbpB_1	fbpB-1	P71338	1.111e-58	Fe	Fe(3+)-transport system permease protein FbpB 2
+Fe_transport_fbpC_1	sp_P44513_FBPC2_HAEIN_fbpC-1	P44513	2.289e-73	Fe	Fe(3+) ions import ATP-binding protein FbpC 2
+Fe_transport_fecD_1	fecD-1	P15029	1.664e-39	Fe	Fe(3+) dicitrate transport system permease protein FecD
+Fe_transport_fecE_1	fecE-1	P15031	4.0189999999999997e-53	Fe	Fe(3+) dicitrate transport ATP-binding protein FecE
+FMN_reductase_arsH_1	AAF69240.1_arsH-2	B7J950	1.0129999999999999e-45	Non-specific	NADPH-dependent FMN reductase ArsH
+FMN_reductase_arsH_2	pdb_2FZV_A	Q7UC03	2.245e-49	Non-specific	NADPH-dependent FMN reductase ArsH
+FMN_reductase_arsH_3	ADW67083.1_arsH-3	Q92R45	1.5150000000000001e-34	Non-specific	NADPH-dependent FMN reductase ArsH
+FMN_reductase_arsH_4	MDW9700227.1_arsH-5	Q92R45	6.952e-45	Non-specific	NADPH-dependent FMN reductase ArsH
+FMN_reductase_arsH_5	WP_051440822.1_sp_Q92R45_ARREH_RHIME_arsH-5	Q92R45	1.6979999999999998e-44	Non-specific	NADPH-dependent FMN reductase ArsH
+Hg_merE_1	RXY26954.1_merE-2	P06690	1.787e-09	Hg	Broad mercury transporter MerE
+Hg_reductase_1	WP_138412912.1_merA-7	P00392	0.0	Hg	Mercuric reductase
+Hg_reductase_10	WP_333968500.1_sp_Q51772_MERA_PSEFL_merA-5	Q51772	0.0	Hg	Mercuric reductase
+Hg_reductase_11	EBN6709669.1_merA-5	Q52109	4.345e-23	Hg	Mercuric reductase
+Hg_reductase_12	NUN59173.1_merA-10	Q52109	7.327e-96	Hg	Mercuric reductase
+Hg_reductase_2	ABX56789.1_sp_P08332_MERA_SHIFL_merA-5	P08332	0.0	Hg	Mercuric reductase
+Hg_reductase_3	PIB38753.1_merA-8	P0A0E4	1.404e-66	Hg	Mercuric reductase
+Hg_reductase_4	sp_P0A0E4_MERA_STAES_merA-1	P0A0E4	0.0	Hg	Mercuric reductase
+Hg_reductase_5	merA-4	P16171	0.0	Hg	Mercuric reductase
+Hg_reductase_6	WP_215856023.1_merA-3	P17239	1.303e-100	Hg	Mercuric reductase
+Hg_reductase_7	sp_P17239_MERA_ACIFR_merA-5	P17239	0.0	Hg	Mercuric reductase
+Hg_reductase_8	ECV2549079.1_merA-5	P94188	7.881e-28	Hg	Mercuric reductase
+Hg_reductase_9	sp_P94188_MERA_ALCSP_merA-5	P94188	0.0	Hg	Mercuric reductase
+Hg_transport_1	HCW8778708.1_merT-4	P08656	3.813e-16	Hg	Mercuric transport protein
+Hg_transport_merC_1	merC-2	P22905	7.6e-14	Hg	Mercuric transport protein MerC
+Hg_transport_merC_2	WP_175224077.1_merC-1	Q50919	4.529e-09	Hg	Mercuric transport protein MerC
+Hg_transport_merT_1	WP_215878416.1_merT-2	P0A220	7.511e-14	Hg	Mercuric transport protein MerT
+Hg_transport_merT_2	AEV56964.1_merT-5	P13112	4.199e-12	Hg	Mercuric transport protein MerT
+Hg_transport_merT_3	ABG49176.1_merT-10	P94700	3.568e-12	Hg	Mercuric transport protein MerT
+Hg_transport_merT_4	WP_032454987.1_sp_Q51769_MERT_PSEFL_merT-6	Q51769	3.195e-15	Hg	Mercuric transport protein MerT
+Hg_transport_periplasmic_1	ABG49177.1_merP-1	P04129	8.89e-17	Hg	Mercuric transport protein periplasmic component
+Hg_transport_periplasmic_10	sp_P13113_MERP_SERMA_merP-4	P13113	2.476e-16	Hg	Mercuric transport protein periplasmic component
+Hg_transport_periplasmic_11	WP_005413396.1_sp_P94186_MERP_ALCSP_merP-4	P94186	1.294e-16	Hg	Mercuric transport protein periplasmic component
+Hg_transport_periplasmic_12	merP-5	P94186	5.698e-16	Hg	Mercuric transport protein periplasmic component
+Hg_transport_periplasmic_2	ECN3589208.1_merP-1	P04129	9.4e-16	Hg	Mercuric transport protein periplasmic component
+Hg_transport_periplasmic_3	WP_306462721.1_merP-8	P0A216	9.93e-05	Hg	Mercuric transport protein periplasmic component
+Hg_transport_periplasmic_4	ABO36577.1_merP-7	P0A217	6.862e-15	Hg	Mercuric transport protein periplasmic component
+Hg_transport_periplasmic_5	MBU6403819.1_merP-9	P0A217	7.323e-12	Hg	Mercuric transport protein periplasmic component
+Hg_transport_periplasmic_6	WP_163059735.1_merP-9	P0A217	4.187e-13	Hg	Mercuric transport protein periplasmic component
+Hg_transport_periplasmic_7	WP_172688983.1_merP-7	P0A217	8.792e-15	Hg	Mercuric transport protein periplasmic component
+Hg_transport_periplasmic_8	WP_233774816.1_merP-8	P0A217	4.976e-05	Hg	Mercuric transport protein periplasmic component
+Hg_transport_periplasmic_9	merT-P-1	P13113	5.776e-07	Hg	Mercuric transport protein periplasmic component
+Metal_binding_zinT_1	ART17048.1_zinT-1	P76344	3.321e-44	Non-specific	Metal-binding protein ZinT
+Mg_transport_ATPase_1	sp_P0ABB8_ATMA_ECOLI_mgtA-2	P0ABB8	0.0	Mg	Magnesium-transporting ATPase, P-type 1
+Mg_transport_corA_1	AAN83170.1_corA-1	Q329Z2	2.371e-49	Mg	Magnesium transport protein CorA
+MgCo_corC_1	EAW1422469.1_corC-1	P0AE78	5.098999999999999e-60	Mg, Co	Magnesium and cobalt efflux protein CorC
+Mn_binding_mntA_1	BAI86590.2_mntA-1	O34385	4.5429999999999995e-54	Mn	Manganese-binding lipoprotein MntA
+Mn_transport_ATPase_1	WP_015303793.1_ctpC-2	P0A503	0.0	Mn	Manganese-exporting P-type ATPase
+Mo_binding_modA_1	modA-1	P37329	9.887000000000001e-55	Mo	Molybdate-binding protein ModA
+Mo_binding_molA_1	ceuE-1	P44206	2.704e-18	Mo	Molybdate-binding protein MolA
+Multidrug_efflux_yfmO_1	mdrL-1	O06473	3.523e-24	Non-specific	Multidrug efflux protein YfmO
+Multidrug_efflux_yfmO_2	sp_O06473_YFMO_BACSU_yfmO-1	O06473	4.593999999999999e-47	Non-specific	Multidrug efflux protein YfmO
+Multidrug_resistance_mdtA_1	AHB94093.1_sp_B4T9U0_MDTA_SALHS_mdtA-2	B4T9U0	2.038e-74	Non-specific	Multidrug resistance protein MdtA
+Multidrug_resistance_mdtB_1	sp_P69340_MDTB_SHIFL_mdtB-2	B1LNW6	0.0	Non-specific	Multidrug resistance protein MdtB
+Multidrug_resistance_mdtC_1	HCR6247170.1_sp_Q83KI4_MDTC_SHIFL_mdtC-1	B7NCB2	0.0	Non-specific	Multidrug resistance protein MdtC
+Ni_import_nikD_1	sp_Q0SZJ4_NIKD_SHIF8_nikD-1	Q83J78	1.4969999999999999e-52	Ni	Nickel import ATP-binding protein NikD
+Ni_Import_nikE_1	sp_Q0SZJ3_NIKE_SHIF8_nikE-1	Q0SZJ3	6.092e-54	Ni	Nickel import ATP-binding protein NikE
+Ni_periplasmic_1	nikA-1	P33590	0.0	Ni	Nickel-binding periplasmic protein
+Ni_permease_nikB_1	nikB-1	P33591	1.0829999999999999e-39	Ni	Nickel transport system permease protein NikB
+Ni_permease_nikC_1	sp_P0AFA9_NIKC_ECOLI_nikC-1	P0AFA9	2.337e-36	Ni	Nickel transport system permease protein NikC
+Ni_protein_hupE_1	WP_222310663.1_hupE-1	P27650	1.037e-21	Ni	Protein HupE
+Ni_protein_hupE_2	hupE2-1	P27650	3.719e-13	Ni	Protein HupE
+Ni_transport_nixA_1	sp_Q48262_NIXA_HELPY_nixA-1	Q48262	1.132e-37	Ni	High-affinity nickel-transport protein NixA
+NiCo_efflux_1	MCK8865758.1_zevB-1	P44136	1.36e-36	Ni, Co	Putative nickel/cobalt efflux system HI_1248
+NiCo_efflux_rcnA_1	HBY1682724.1_nirC-1	A8AP76	5.238e-24	Ni, Co	Nickel/cobalt efflux system RcnA
+NiCo_efflux_rcnA_2	MDU7556381.1_mrdH-1	A8AP76	2.613e-23	Ni, Co	Nickel/cobalt efflux system RcnA
+NiCo_efflux_rcnA_3	WP_000134600.1_sp_Q0T333_RCNA_SHIF8_rcnA-1	Q0T333	4.714e-31	Ni, Co	Nickel/cobalt efflux system RcnA
+NiCo_efflux_rcnA_4	HCD9054496.1_nirC-1	Q32E98	2.681e-20	Ni, Co	Nickel/cobalt efflux system RcnA
+NiCo_efflux_rcnA_5	WP_271197962.1_mrdH-2	Q8X3U5	3.1829999999999996e-23	Ni, Co	Nickel/cobalt efflux system RcnA
+NiCo_resistance_cnrA_1	AAA21970.1_cnrA-1	P37972	0.0	Ni, Co	Nickel and cobalt resistance protein CnrA
+NiCo_resistance_cnrA_2	cnrA-2	P37972	5.717e-37	Ni, Co	Nickel and cobalt resistance protein CnrA
+NiCo_resistance_cnrB_1	cnrB-1	P37973	2.855e-64	Ni, Co	Nickel and cobalt resistance protein CnrB
+NiCo_resistance_cnrC_1	WP_017510983.1_cnrC-1	P37974	2.8379999999999998e-52	Ni, Co	Nickel and cobalt resistance protein CnrC
+NiCo_resistance_cnrC_2	WP_307983713.1_cznB-2	P37974	1.417e-15	Ni, Co	Nickel and cobalt resistance protein CnrC
+NiCo_resistance_cnrC_3	cznC-1	P37974	2.213e-16	Ni, Co	Nickel and cobalt resistance protein CnrC
+NiCoCd_resistance_nccA_1	WP_018272061.1_cnrA-4	Q44586	0.0	Ni, Co, Cd	Nickel-cobalt-cadmium resistance protein NccA
+NiCoCd_resistance_nccA_2	sp_Q44586_NCCA_ALCXX_cnrA-1	Q44586	0.0	Ni, Co, Cd	Nickel-cobalt-cadmium resistance protein NccA
+NiCoCd_resistance_nccB_1	WP_104669847.1_nccB-1	Q44585	8.726e-65	Ni, Co, Cd	Nickel-cobalt-cadmium resistance protein NccB
+NiCoCd_resistance_nccB_2	WP_115055959.1_cznB-1	Q44585	2.328e-24	Ni, Co, Cd	Nickel-cobalt-cadmium resistance protein NccB
+NiCoCd_resistance_nccC_1	sp_Q44584_NCCC_ALCXX_nccC-1	Q44584	1.1999999999999999e-54	Ni, Co, Cd	Nickel-cobalt-cadmium resistance protein NccC
+NiCoCd_resistance_nccN_1	MCA3183951.1_nccN-1	Q44587	2.1470000000000002e-32	Ni, Co, Cd	Nickel-cobalt-cadmium resistance protein NccN
+Quinone_reductase_arsH_1	MDY7008100.1_arsH-4	P74312	2.2419999999999998e-39	Non-specific	NADPH-dependent quinone reductase ArsH
+Te_protein_klaB_1	klaB-1	Q52328	2.3010000000000002e-42	Te	Protein KlaB
+Te_protein_klaC_1	AAS78889.1_klaC-1	Q52329	6.364e-35	Te	Protein KlaC
+Te_protein_klaC_2	HBO5065885.1_klaC-1	Q52329	2.2990000000000002e-36	Te	Protein KlaC
+Te_resistance_terA_1	HBR0568948.1_terA-1	P18778	8.625e-56	Te	Tellurium resistance protein TerA
+Te_resistance_terA_2	sp_P18778_TERA_ALCSP_terA-1	P18778	5.404e-63	Te	Tellurium resistance protein TerA
+Te_resistance_terB_1	AAR07675.1_terB-1	P18779	1.024e-11	Te	Tellurium resistance protein TerB
+Te_resistance_terB_2	AFB82882.1_terB-1	P18779	3.436e-12	Te	Tellurium resistance protein TerB
+Te_resistance_terB_3	WP_284115547.1_terB-1	P18779	3.192e-13	Te	Tellurium resistance protein TerB
+Te_resistance_terB_4	WP_336654614.1_terB-1	P18779	2.061e-12	Te	Tellurium resistance protein TerB
+Te_resistance_terC_1	sp_Q52356_TERC_SERMA_terC-1	Q52356	3.1550000000000003e-42	Te	Tellurium resistance protein TerC
+Te_resistance_terD_1	pdb_2KXT_A	P18781	1.04e-37	Te	Tellurium resistance protein TerD
+Te_resistance_terE_1	WP_117248542.1_terE-1	P18782	5.203999999999999e-38	Te	Tellurium resistance protein TerE
+Te_resistance_terZ_1	terZ-1	Q52353	7.420999999999999e-39	Te	Tellurium resistance protein TerZ
+Zn_ATPase_1	WP_194071461.1_corT-1	O31688	8.488e-63	Zn	Zinc-transporting ATPase
+Zn_ATPase_2	ziaA-1	Q59998	0.0	Zn	Zinc-transporting ATPase
+Zn_binding_troA_1	sp_P96116_TROA_TREPA_troA-1	P96116	5.142e-55	Zn	Zinc-binding protein TroA
+Zn_import_znuC_1	AAX65806.1_sp_Q57NA5_ZNUC_SALCH_znuC-1	Q5PIA5	5.169e-52	Zn	Zinc import ATP-binding protein ZnuC
+Zn_transport_gufA_1	pdb_6PGI_A	Q06916	1.427e-13	Zn	Zinc transporter GufA
+Zn_transport_troB_1	troB-1	P96117	1.2039999999999999e-51	Zn	Zinc transport system ATP-binding protein TroB
+Zn_transport_troC_1	troC-1	P96118	1.4870000000000001e-34	Zn	Zinc transport system membrane protein TroC
+Zn_transport_troD_1	sp_P96119_TROD_TREPA_troD-1	P96119	1.536e-43	Zn	Zinc transport system membrane protein TroD
+Zn_transport_zitB_1	HDS3099098.1_zitB-2	Q8X400	1.104e-42	Zn	Zinc transporter ZitB
+Zn_transport_zupT_1	sp_Q32BU5_ZUPT_SHIDS_zupT-1	Q32BU5	6.615000000000001e-30	Zn	Zinc transporter ZupT
+Zn_uptake_znuA_1	ACT28832.1_znuA-1	P39172	4.187e-55	Zn	High-affinity zinc uptake system protein ZnuA
+Zn_uptake_znuB_1	WGD79137.1_znuB-2	O34610	1.069e-31	Zn	High-affinity zinc uptake system membrane protein ZnuB
+Zn_uptake_znuB_2	znuB-1	P39832	1.362e-31	Zn	High-affinity zinc uptake system membrane protein ZnuB
+Zn_uptake_znuC_1	znuC-2	O34946	1.868e-47	Zn	High-affinity zinc uptake system ATP-binding protein ZnuC
+ZnCdPb_ATPase_1	WP_268603885.1_zntA-3	P37617	4.731e-17	Zn, Cd, Pb	Zinc/cadmium/lead-transporting P-type ATPase
+ZnCdPb_ATPase_2	sp_P37617_ZNTA_ECOLI_zntA-2	P37617	0.0	Zn, Cd, Pb	Zinc/cadmium/lead-transporting P-type ATPase
+ZnCdPb_ATPase_3	WP_206423245.1_zntA-3	Q3YW59	8.134e-17	Zn, Cd, Pb	Zinc/cadmium/lead-transporting P-type ATPase

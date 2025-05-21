@@ -1,0 +1,1773 @@
+[
+  {
+    "id": "Ag_ATPase_1",
+    "metal": "Ag",
+    "mechanism": "ATPase",
+    "gene_id": "1",
+    "description": "Profile HMM for Ag ATPase gene 1."
+  },
+  {
+    "id": "Ag_efflux_silA_1",
+    "metal": "Ag",
+    "mechanism": "efflux",
+    "gene_id": "silA",
+    "description": "Profile HMM for Ag efflux gene silA."
+  },
+  {
+    "id": "Ag_lipoprotein_silC_1",
+    "metal": "Ag",
+    "mechanism": "lipoprotein",
+    "gene_id": "silC",
+    "description": "Profile HMM for Ag lipoprotein gene silC."
+  },
+  {
+    "id": "Ag_membrane_silB_1",
+    "metal": "Ag",
+    "mechanism": "membrane",
+    "gene_id": "silB",
+    "description": "Profile HMM for Ag membrane gene silB."
+  },
+  {
+    "id": "As_glutaredoxin_1",
+    "metal": "As",
+    "mechanism": "glutaredoxin",
+    "gene_id": "1",
+    "description": "Profile HMM for As glutaredoxin gene 1."
+  },
+  {
+    "id": "As_lyase_1",
+    "metal": "As",
+    "mechanism": "lyase",
+    "gene_id": "1",
+    "description": "Profile HMM for As lyase gene 1."
+  },
+  {
+    "id": "As_lyase_2",
+    "metal": "As",
+    "mechanism": "lyase",
+    "gene_id": "2",
+    "description": "Profile HMM for As lyase gene 2."
+  },
+  {
+    "id": "As_lyase_3",
+    "metal": "As",
+    "mechanism": "lyase",
+    "gene_id": "3",
+    "description": "Profile HMM for As lyase gene 3."
+  },
+  {
+    "id": "As_methyltransferase_1",
+    "metal": "As",
+    "mechanism": "methyltransferase",
+    "gene_id": "1",
+    "description": "Profile HMM for As methyltransferase gene 1."
+  },
+  {
+    "id": "As_methyltransferase_2",
+    "metal": "As",
+    "mechanism": "methyltransferase",
+    "gene_id": "2",
+    "description": "Profile HMM for As methyltransferase gene 2."
+  },
+  {
+    "id": "As_methyltransferase_3",
+    "metal": "As",
+    "mechanism": "methyltransferase",
+    "gene_id": "3",
+    "description": "Profile HMM for As methyltransferase gene 3."
+  },
+  {
+    "id": "As_methyltransferase_4",
+    "metal": "As",
+    "mechanism": "methyltransferase",
+    "gene_id": "4",
+    "description": "Profile HMM for As methyltransferase gene 4."
+  },
+  {
+    "id": "As_oxidase_aioA_1",
+    "metal": "As",
+    "mechanism": "oxidase",
+    "gene_id": "aioA",
+    "description": "Profile HMM for As oxidase gene aioA."
+  },
+  {
+    "id": "As_oxidase_aioA_2",
+    "metal": "As",
+    "mechanism": "oxidase",
+    "gene_id": "aioA",
+    "description": "Profile HMM for As oxidase gene aioA."
+  },
+  {
+    "id": "As_oxidase_aioA_3",
+    "metal": "As",
+    "mechanism": "oxidase",
+    "gene_id": "aioA",
+    "description": "Profile HMM for As oxidase gene aioA."
+  },
+  {
+    "id": "As_oxidase_aioA_4",
+    "metal": "As",
+    "mechanism": "oxidase",
+    "gene_id": "aioA",
+    "description": "Profile HMM for As oxidase gene aioA."
+  },
+  {
+    "id": "As_oxidase_aioB_1",
+    "metal": "As",
+    "mechanism": "oxidase",
+    "gene_id": "aioB",
+    "description": "Profile HMM for As oxidase gene aioB."
+  },
+  {
+    "id": "As_oxidase_aioB_2",
+    "metal": "As",
+    "mechanism": "oxidase",
+    "gene_id": "aioB",
+    "description": "Profile HMM for As oxidase gene aioB."
+  },
+  {
+    "id": "As_oxidase_aioB_3",
+    "metal": "As",
+    "mechanism": "oxidase",
+    "gene_id": "aioB",
+    "description": "Profile HMM for As oxidase gene aioB."
+  },
+  {
+    "id": "As_oxidase_aioB_4",
+    "metal": "As",
+    "mechanism": "oxidase",
+    "gene_id": "aioB",
+    "description": "Profile HMM for As oxidase gene aioB."
+  },
+  {
+    "id": "As_pump_1",
+    "metal": "As",
+    "mechanism": "pump",
+    "gene_id": "1",
+    "description": "Profile HMM for As pump gene 1."
+  },
+  {
+    "id": "As_pump_2",
+    "metal": "As",
+    "mechanism": "pump",
+    "gene_id": "2",
+    "description": "Profile HMM for As pump gene 2."
+  },
+  {
+    "id": "As_pump_3",
+    "metal": "As",
+    "mechanism": "pump",
+    "gene_id": "3",
+    "description": "Profile HMM for As pump gene 3."
+  },
+  {
+    "id": "As_pump_4",
+    "metal": "As",
+    "mechanism": "pump",
+    "gene_id": "4",
+    "description": "Profile HMM for As pump gene 4."
+  },
+  {
+    "id": "As_pump_5",
+    "metal": "As",
+    "mechanism": "pump",
+    "gene_id": "5",
+    "description": "Profile HMM for As pump gene 5."
+  },
+  {
+    "id": "As_pump_6",
+    "metal": "As",
+    "mechanism": "pump",
+    "gene_id": "6",
+    "description": "Profile HMM for As pump gene 6."
+  },
+  {
+    "id": "As_pump_7",
+    "metal": "As",
+    "mechanism": "pump",
+    "gene_id": "7",
+    "description": "Profile HMM for As pump gene 7."
+  },
+  {
+    "id": "As_pump_8",
+    "metal": "As",
+    "mechanism": "pump",
+    "gene_id": "8",
+    "description": "Profile HMM for As pump gene 8."
+  },
+  {
+    "id": "As_reductase_1",
+    "metal": "As",
+    "mechanism": "reductase",
+    "gene_id": "1",
+    "description": "Profile HMM for As reductase gene 1."
+  },
+  {
+    "id": "As_reductase_2",
+    "metal": "As",
+    "mechanism": "reductase",
+    "gene_id": "2",
+    "description": "Profile HMM for As reductase gene 2."
+  },
+  {
+    "id": "As_reductase_3",
+    "metal": "As",
+    "mechanism": "reductase",
+    "gene_id": "3",
+    "description": "Profile HMM for As reductase gene 3."
+  },
+  {
+    "id": "As_reductase_4",
+    "metal": "As",
+    "mechanism": "reductase",
+    "gene_id": "4",
+    "description": "Profile HMM for As reductase gene 4."
+  },
+  {
+    "id": "As_reductase_5",
+    "metal": "As",
+    "mechanism": "reductase",
+    "gene_id": "5",
+    "description": "Profile HMM for As reductase gene 5."
+  },
+  {
+    "id": "As_res_Acr3_1",
+    "metal": "As",
+    "mechanism": "res",
+    "gene_id": "Acr3",
+    "description": "Profile HMM for As res gene Acr3."
+  },
+  {
+    "id": "As_res_Acr3_2",
+    "metal": "As",
+    "mechanism": "res",
+    "gene_id": "Acr3",
+    "description": "Profile HMM for As res gene Acr3."
+  },
+  {
+    "id": "As_res_arsB_1",
+    "metal": "As",
+    "mechanism": "res",
+    "gene_id": "arsB",
+    "description": "Profile HMM for As res gene arsB."
+  },
+  {
+    "id": "As_res_arsB_2",
+    "metal": "As",
+    "mechanism": "res",
+    "gene_id": "arsB",
+    "description": "Profile HMM for As res gene arsB."
+  },
+  {
+    "id": "Cation_ATPase_1",
+    "metal": "Cation",
+    "mechanism": "ATPase",
+    "gene_id": "1",
+    "description": "Profile HMM for Cation ATPase gene 1."
+  },
+  {
+    "id": "Cation_efflux_fieF_1",
+    "metal": "Cation",
+    "mechanism": "efflux",
+    "gene_id": "fieF",
+    "description": "Profile HMM for Cation efflux gene fieF."
+  },
+  {
+    "id": "Cation_symport_actP_1",
+    "metal": "Cation",
+    "mechanism": "symport",
+    "gene_id": "actP",
+    "description": "Profile HMM for Cation symport gene actP."
+  },
+  {
+    "id": "Cation_tolerance_cutA_1",
+    "metal": "Cation",
+    "mechanism": "tolerance",
+    "gene_id": "cutA",
+    "description": "Profile HMM for Cation tolerance gene cutA."
+  },
+  {
+    "id": "Cation_tolerance_cutA_2",
+    "metal": "Cation",
+    "mechanism": "tolerance",
+    "gene_id": "cutA",
+    "description": "Profile HMM for Cation tolerance gene cutA."
+  },
+  {
+    "id": "Cation_transport_mntH_1",
+    "metal": "Cation",
+    "mechanism": "transport",
+    "gene_id": "mntH",
+    "description": "Profile HMM for Cation transport gene mntH."
+  },
+  {
+    "id": "Cation_transport_mntH_2",
+    "metal": "Cation",
+    "mechanism": "transport",
+    "gene_id": "mntH",
+    "description": "Profile HMM for Cation transport gene mntH."
+  },
+  {
+    "id": "CdCoZn_ATPase_1",
+    "metal": "CdCoZn",
+    "mechanism": "ATPase",
+    "gene_id": "1",
+    "description": "Profile HMM for CdCoZn ATPase gene 1."
+  },
+  {
+    "id": "CdCoZn_ATPase_2",
+    "metal": "CdCoZn",
+    "mechanism": "ATPase",
+    "gene_id": "2",
+    "description": "Profile HMM for CdCoZn ATPase gene 2."
+  },
+  {
+    "id": "CdCoZn_ATPase_3",
+    "metal": "CdCoZn",
+    "mechanism": "ATPase",
+    "gene_id": "3",
+    "description": "Profile HMM for CdCoZn ATPase gene 3."
+  },
+  {
+    "id": "CdCoZn_antiport_1",
+    "metal": "CdCoZn",
+    "mechanism": "antiport",
+    "gene_id": "1",
+    "description": "Profile HMM for CdCoZn antiport gene 1."
+  },
+  {
+    "id": "CdCoZn_antiport_2",
+    "metal": "CdCoZn",
+    "mechanism": "antiport",
+    "gene_id": "2",
+    "description": "Profile HMM for CdCoZn antiport gene 2."
+  },
+  {
+    "id": "CdCoZn_efflux_czcA_1",
+    "metal": "CdCoZn",
+    "mechanism": "efflux",
+    "gene_id": "czcA",
+    "description": "Profile HMM for CdCoZn efflux gene czcA."
+  },
+  {
+    "id": "CdCoZn_efflux_czcA_2",
+    "metal": "CdCoZn",
+    "mechanism": "efflux",
+    "gene_id": "czcA",
+    "description": "Profile HMM for CdCoZn efflux gene czcA."
+  },
+  {
+    "id": "CdCoZn_efflux_czcA_3",
+    "metal": "CdCoZn",
+    "mechanism": "efflux",
+    "gene_id": "czcA",
+    "description": "Profile HMM for CdCoZn efflux gene czcA."
+  },
+  {
+    "id": "CdCoZn_efflux_czcA_4",
+    "metal": "CdCoZn",
+    "mechanism": "efflux",
+    "gene_id": "czcA",
+    "description": "Profile HMM for CdCoZn efflux gene czcA."
+  },
+  {
+    "id": "CdCoZn_efflux_czcA_5",
+    "metal": "CdCoZn",
+    "mechanism": "efflux",
+    "gene_id": "czcA",
+    "description": "Profile HMM for CdCoZn efflux gene czcA."
+  },
+  {
+    "id": "CdCoZn_efflux_czcB_1",
+    "metal": "CdCoZn",
+    "mechanism": "efflux",
+    "gene_id": "czcB",
+    "description": "Profile HMM for CdCoZn efflux gene czcB."
+  },
+  {
+    "id": "CdCoZn_efflux_czcB_2",
+    "metal": "CdCoZn",
+    "mechanism": "efflux",
+    "gene_id": "czcB",
+    "description": "Profile HMM for CdCoZn efflux gene czcB."
+  },
+  {
+    "id": "CdCoZn_efflux_czcB_3",
+    "metal": "CdCoZn",
+    "mechanism": "efflux",
+    "gene_id": "czcB",
+    "description": "Profile HMM for CdCoZn efflux gene czcB."
+  },
+  {
+    "id": "CdCoZn_efflux_czcB_4",
+    "metal": "CdCoZn",
+    "mechanism": "efflux",
+    "gene_id": "czcB",
+    "description": "Profile HMM for CdCoZn efflux gene czcB."
+  },
+  {
+    "id": "CdCoZn_efflux_czcB_5",
+    "metal": "CdCoZn",
+    "mechanism": "efflux",
+    "gene_id": "czcB",
+    "description": "Profile HMM for CdCoZn efflux gene czcB."
+  },
+  {
+    "id": "CdCoZn_efflux_czcC_1",
+    "metal": "CdCoZn",
+    "mechanism": "efflux",
+    "gene_id": "czcC",
+    "description": "Profile HMM for CdCoZn efflux gene czcC."
+  },
+  {
+    "id": "CdCoZn_efflux_czcD_1",
+    "metal": "CdCoZn",
+    "mechanism": "efflux",
+    "gene_id": "czcD",
+    "description": "Profile HMM for CdCoZn efflux gene czcD."
+  },
+  {
+    "id": "CdCoZn_efflux_czcD_2",
+    "metal": "CdCoZn",
+    "mechanism": "efflux",
+    "gene_id": "czcD",
+    "description": "Profile HMM for CdCoZn efflux gene czcD."
+  },
+  {
+    "id": "Cd_ATPase_1",
+    "metal": "Cd",
+    "mechanism": "ATPase",
+    "gene_id": "1",
+    "description": "Profile HMM for Cd ATPase gene 1."
+  },
+  {
+    "id": "Cd_ATPase_10",
+    "metal": "Cd",
+    "mechanism": "ATPase",
+    "gene_id": "10",
+    "description": "Profile HMM for Cd ATPase gene 10."
+  },
+  {
+    "id": "Cd_ATPase_2",
+    "metal": "Cd",
+    "mechanism": "ATPase",
+    "gene_id": "2",
+    "description": "Profile HMM for Cd ATPase gene 2."
+  },
+  {
+    "id": "Cd_ATPase_3",
+    "metal": "Cd",
+    "mechanism": "ATPase",
+    "gene_id": "3",
+    "description": "Profile HMM for Cd ATPase gene 3."
+  },
+  {
+    "id": "Cd_ATPase_4",
+    "metal": "Cd",
+    "mechanism": "ATPase",
+    "gene_id": "4",
+    "description": "Profile HMM for Cd ATPase gene 4."
+  },
+  {
+    "id": "Cd_ATPase_5",
+    "metal": "Cd",
+    "mechanism": "ATPase",
+    "gene_id": "5",
+    "description": "Profile HMM for Cd ATPase gene 5."
+  },
+  {
+    "id": "Cd_ATPase_6",
+    "metal": "Cd",
+    "mechanism": "ATPase",
+    "gene_id": "6",
+    "description": "Profile HMM for Cd ATPase gene 6."
+  },
+  {
+    "id": "Cd_ATPase_7",
+    "metal": "Cd",
+    "mechanism": "ATPase",
+    "gene_id": "7",
+    "description": "Profile HMM for Cd ATPase gene 7."
+  },
+  {
+    "id": "Cd_ATPase_8",
+    "metal": "Cd",
+    "mechanism": "ATPase",
+    "gene_id": "8",
+    "description": "Profile HMM for Cd ATPase gene 8."
+  },
+  {
+    "id": "Cd_ATPase_9",
+    "metal": "Cd",
+    "mechanism": "ATPase",
+    "gene_id": "9",
+    "description": "Profile HMM for Cd ATPase gene 9."
+  },
+  {
+    "id": "Cd_protein_ygiW_1",
+    "metal": "Cd",
+    "mechanism": "protein",
+    "gene_id": "ygiW",
+    "description": "Profile HMM for Cd protein gene ygiW."
+  },
+  {
+    "id": "CoMg_protein_apaG_1",
+    "metal": "CoMg",
+    "mechanism": "protein",
+    "gene_id": "apaG",
+    "description": "Profile HMM for CoMg protein gene apaG."
+  },
+  {
+    "id": "Co_methylmutase_1",
+    "metal": "Co",
+    "mechanism": "methylmutase",
+    "gene_id": "1",
+    "description": "Profile HMM for Co methylmutase gene 1."
+  },
+  {
+    "id": "Co_transport_nhlF_1",
+    "metal": "Co",
+    "mechanism": "transport",
+    "gene_id": "nhlF",
+    "description": "Profile HMM for Co transport gene nhlF."
+  },
+  {
+    "id": "Cr_protein_chrB_1",
+    "metal": "Cr",
+    "mechanism": "protein",
+    "gene_id": "chrB",
+    "description": "Profile HMM for Cr protein gene chrB."
+  },
+  {
+    "id": "Cr_transport_1",
+    "metal": "Cr",
+    "mechanism": "transport",
+    "gene_id": "1",
+    "description": "Profile HMM for Cr transport gene 1."
+  },
+  {
+    "id": "Cr_transport_2",
+    "metal": "Cr",
+    "mechanism": "transport",
+    "gene_id": "2",
+    "description": "Profile HMM for Cr transport gene 2."
+  },
+  {
+    "id": "Cr_transport_3",
+    "metal": "Cr",
+    "mechanism": "transport",
+    "gene_id": "3",
+    "description": "Profile HMM for Cr transport gene 3."
+  },
+  {
+    "id": "Cr_transport_4",
+    "metal": "Cr",
+    "mechanism": "transport",
+    "gene_id": "4",
+    "description": "Profile HMM for Cr transport gene 4."
+  },
+  {
+    "id": "Cr_transport_5",
+    "metal": "Cr",
+    "mechanism": "transport",
+    "gene_id": "5",
+    "description": "Profile HMM for Cr transport gene 5."
+  },
+  {
+    "id": "CuAg_cusA_1",
+    "metal": "CuAg",
+    "mechanism": "cusA",
+    "gene_id": "1",
+    "description": "Profile HMM for CuAg cusA gene 1."
+  },
+  {
+    "id": "CuAg_cusB_1",
+    "metal": "CuAg",
+    "mechanism": "cusB",
+    "gene_id": "1",
+    "description": "Profile HMM for CuAg cusB gene 1."
+  },
+  {
+    "id": "CuAg_cusC_1",
+    "metal": "CuAg",
+    "mechanism": "cusC",
+    "gene_id": "1",
+    "description": "Profile HMM for CuAg cusC gene 1."
+  },
+  {
+    "id": "CuAg_cusF_1",
+    "metal": "CuAg",
+    "mechanism": "cusF",
+    "gene_id": "1",
+    "description": "Profile HMM for CuAg cusF gene 1."
+  },
+  {
+    "id": "CuNi_ATPase_1",
+    "metal": "CuNi",
+    "mechanism": "ATPase",
+    "gene_id": "1",
+    "description": "Profile HMM for CuNi ATPase gene 1."
+  },
+  {
+    "id": "Cu_ATPase_1",
+    "metal": "Cu",
+    "mechanism": "ATPase",
+    "gene_id": "1",
+    "description": "Profile HMM for Cu ATPase gene 1."
+  },
+  {
+    "id": "Cu_ATPase_2",
+    "metal": "Cu",
+    "mechanism": "ATPase",
+    "gene_id": "2",
+    "description": "Profile HMM for Cu ATPase gene 2."
+  },
+  {
+    "id": "Cu_ATPase_3",
+    "metal": "Cu",
+    "mechanism": "ATPase",
+    "gene_id": "3",
+    "description": "Profile HMM for Cu ATPase gene 3."
+  },
+  {
+    "id": "Cu_ATPase_4",
+    "metal": "Cu",
+    "mechanism": "ATPase",
+    "gene_id": "4",
+    "description": "Profile HMM for Cu ATPase gene 4."
+  },
+  {
+    "id": "Cu_ATPase_5",
+    "metal": "Cu",
+    "mechanism": "ATPase",
+    "gene_id": "5",
+    "description": "Profile HMM for Cu ATPase gene 5."
+  },
+  {
+    "id": "Cu_ATPase_pacS_1",
+    "metal": "Cu",
+    "mechanism": "ATPase",
+    "gene_id": "pacS",
+    "description": "Profile HMM for Cu ATPase gene pacS."
+  },
+  {
+    "id": "Cu_ATPase_pacS_2",
+    "metal": "Cu",
+    "mechanism": "ATPase",
+    "gene_id": "pacS",
+    "description": "Profile HMM for Cu ATPase gene pacS."
+  },
+  {
+    "id": "Cu_COP_associated_1",
+    "metal": "Cu",
+    "mechanism": "COP",
+    "gene_id": "associated",
+    "description": "Profile HMM for Cu COP gene associated."
+  },
+  {
+    "id": "Cu_COP_associated_2",
+    "metal": "Cu",
+    "mechanism": "COP",
+    "gene_id": "associated",
+    "description": "Profile HMM for Cu COP gene associated."
+  },
+  {
+    "id": "Cu_PF03932_cutC_1",
+    "metal": "Cu",
+    "mechanism": "PF03932",
+    "gene_id": "cutC",
+    "description": "Profile HMM for Cu PF03932 gene cutC."
+  },
+  {
+    "id": "Cu_binding_pcoE_1",
+    "metal": "Cu",
+    "mechanism": "binding",
+    "gene_id": "pcoE",
+    "description": "Profile HMM for Cu binding gene pcoE."
+  },
+  {
+    "id": "Cu_chaperone_copZ_1",
+    "metal": "Cu",
+    "mechanism": "chaperone",
+    "gene_id": "copZ",
+    "description": "Profile HMM for Cu chaperone gene copZ."
+  },
+  {
+    "id": "Cu_chaperone_copZ_2",
+    "metal": "Cu",
+    "mechanism": "chaperone",
+    "gene_id": "copZ",
+    "description": "Profile HMM for Cu chaperone gene copZ."
+  },
+  {
+    "id": "Cu_oxidase_cueO_1",
+    "metal": "Cu",
+    "mechanism": "oxidase",
+    "gene_id": "cueO",
+    "description": "Profile HMM for Cu oxidase gene cueO."
+  },
+  {
+    "id": "Cu_oxidase_cueO_2",
+    "metal": "Cu",
+    "mechanism": "oxidase",
+    "gene_id": "cueO",
+    "description": "Profile HMM for Cu oxidase gene cueO."
+  },
+  {
+    "id": "Cu_oxidase_mco_1",
+    "metal": "Cu",
+    "mechanism": "oxidase",
+    "gene_id": "mco",
+    "description": "Profile HMM for Cu oxidase gene mco."
+  },
+  {
+    "id": "Cu_oxidase_mmcO_1",
+    "metal": "Cu",
+    "mechanism": "oxidase",
+    "gene_id": "mmcO",
+    "description": "Profile HMM for Cu oxidase gene mmcO."
+  },
+  {
+    "id": "Cu_oxidase_mmcO_2",
+    "metal": "Cu",
+    "mechanism": "oxidase",
+    "gene_id": "mmcO",
+    "description": "Profile HMM for Cu oxidase gene mmcO."
+  },
+  {
+    "id": "Cu_resistance_A_1",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "A",
+    "description": "Profile HMM for Cu resistance gene A."
+  },
+  {
+    "id": "Cu_resistance_A_2",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "A",
+    "description": "Profile HMM for Cu resistance gene A."
+  },
+  {
+    "id": "Cu_resistance_A_3",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "A",
+    "description": "Profile HMM for Cu resistance gene A."
+  },
+  {
+    "id": "Cu_resistance_A_4",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "A",
+    "description": "Profile HMM for Cu resistance gene A."
+  },
+  {
+    "id": "Cu_resistance_B_1",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "B",
+    "description": "Profile HMM for Cu resistance gene B."
+  },
+  {
+    "id": "Cu_resistance_B_2",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "B",
+    "description": "Profile HMM for Cu resistance gene B."
+  },
+  {
+    "id": "Cu_resistance_B_3",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "B",
+    "description": "Profile HMM for Cu resistance gene B."
+  },
+  {
+    "id": "Cu_resistance_C_1",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "C",
+    "description": "Profile HMM for Cu resistance gene C."
+  },
+  {
+    "id": "Cu_resistance_C_2",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "C",
+    "description": "Profile HMM for Cu resistance gene C."
+  },
+  {
+    "id": "Cu_resistance_C_3",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "C",
+    "description": "Profile HMM for Cu resistance gene C."
+  },
+  {
+    "id": "Cu_resistance_C_4",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "C",
+    "description": "Profile HMM for Cu resistance gene C."
+  },
+  {
+    "id": "Cu_resistance_D_1",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "D",
+    "description": "Profile HMM for Cu resistance gene D."
+  },
+  {
+    "id": "Cu_resistance_D_2",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "D",
+    "description": "Profile HMM for Cu resistance gene D."
+  },
+  {
+    "id": "Cu_resistance_D_3",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "D",
+    "description": "Profile HMM for Cu resistance gene D."
+  },
+  {
+    "id": "Cu_resistance_K_1",
+    "metal": "Cu",
+    "mechanism": "resistance",
+    "gene_id": "K",
+    "description": "Profile HMM for Cu resistance gene K."
+  },
+  {
+    "id": "Cu_transport_ATPase_1",
+    "metal": "Cu",
+    "mechanism": "transport",
+    "gene_id": "ATPase",
+    "description": "Profile HMM for Cu transport gene ATPase."
+  },
+  {
+    "id": "Cu_transport_ATPase_10",
+    "metal": "Cu",
+    "mechanism": "transport",
+    "gene_id": "ATPase",
+    "description": "Profile HMM for Cu transport gene ATPase."
+  },
+  {
+    "id": "Cu_transport_ATPase_11",
+    "metal": "Cu",
+    "mechanism": "transport",
+    "gene_id": "ATPase",
+    "description": "Profile HMM for Cu transport gene ATPase."
+  },
+  {
+    "id": "Cu_transport_ATPase_2",
+    "metal": "Cu",
+    "mechanism": "transport",
+    "gene_id": "ATPase",
+    "description": "Profile HMM for Cu transport gene ATPase."
+  },
+  {
+    "id": "Cu_transport_ATPase_3",
+    "metal": "Cu",
+    "mechanism": "transport",
+    "gene_id": "ATPase",
+    "description": "Profile HMM for Cu transport gene ATPase."
+  },
+  {
+    "id": "Cu_transport_ATPase_4",
+    "metal": "Cu",
+    "mechanism": "transport",
+    "gene_id": "ATPase",
+    "description": "Profile HMM for Cu transport gene ATPase."
+  },
+  {
+    "id": "Cu_transport_ATPase_5",
+    "metal": "Cu",
+    "mechanism": "transport",
+    "gene_id": "ATPase",
+    "description": "Profile HMM for Cu transport gene ATPase."
+  },
+  {
+    "id": "Cu_transport_ATPase_6",
+    "metal": "Cu",
+    "mechanism": "transport",
+    "gene_id": "ATPase",
+    "description": "Profile HMM for Cu transport gene ATPase."
+  },
+  {
+    "id": "Cu_transport_ATPase_7",
+    "metal": "Cu",
+    "mechanism": "transport",
+    "gene_id": "ATPase",
+    "description": "Profile HMM for Cu transport gene ATPase."
+  },
+  {
+    "id": "Cu_transport_ATPase_8",
+    "metal": "Cu",
+    "mechanism": "transport",
+    "gene_id": "ATPase",
+    "description": "Profile HMM for Cu transport gene ATPase."
+  },
+  {
+    "id": "Cu_transport_ATPase_9",
+    "metal": "Cu",
+    "mechanism": "transport",
+    "gene_id": "ATPase",
+    "description": "Profile HMM for Cu transport gene ATPase."
+  },
+  {
+    "id": "Cu_transport_mctB_1",
+    "metal": "Cu",
+    "mechanism": "transport",
+    "gene_id": "mctB",
+    "description": "Profile HMM for Cu transport gene mctB."
+  },
+  {
+    "id": "Cu_transport_ycnJ_1",
+    "metal": "Cu",
+    "mechanism": "transport",
+    "gene_id": "ycnJ",
+    "description": "Profile HMM for Cu transport gene ycnJ."
+  },
+  {
+    "id": "Cu_transport_ycnJ_2",
+    "metal": "Cu",
+    "mechanism": "transport",
+    "gene_id": "ycnJ",
+    "description": "Profile HMM for Cu transport gene ycnJ."
+  },
+  {
+    "id": "FMN_reductase_arsH_1",
+    "metal": "FMN",
+    "mechanism": "reductase",
+    "gene_id": "arsH",
+    "description": "Profile HMM for FMN reductase gene arsH."
+  },
+  {
+    "id": "FMN_reductase_arsH_2",
+    "metal": "FMN",
+    "mechanism": "reductase",
+    "gene_id": "arsH",
+    "description": "Profile HMM for FMN reductase gene arsH."
+  },
+  {
+    "id": "FMN_reductase_arsH_3",
+    "metal": "FMN",
+    "mechanism": "reductase",
+    "gene_id": "arsH",
+    "description": "Profile HMM for FMN reductase gene arsH."
+  },
+  {
+    "id": "FMN_reductase_arsH_4",
+    "metal": "FMN",
+    "mechanism": "reductase",
+    "gene_id": "arsH",
+    "description": "Profile HMM for FMN reductase gene arsH."
+  },
+  {
+    "id": "FMN_reductase_arsH_5",
+    "metal": "FMN",
+    "mechanism": "reductase",
+    "gene_id": "arsH",
+    "description": "Profile HMM for FMN reductase gene arsH."
+  },
+  {
+    "id": "Fe_binding_yfeA_1",
+    "metal": "Fe",
+    "mechanism": "binding",
+    "gene_id": "yfeA",
+    "description": "Profile HMM for Fe binding gene yfeA."
+  },
+  {
+    "id": "Fe_ferripyoverdine_receptor_1",
+    "metal": "Fe",
+    "mechanism": "ferripyoverdine",
+    "gene_id": "receptor",
+    "description": "Profile HMM for Fe ferripyoverdine gene receptor."
+  },
+  {
+    "id": "Fe_periplasmic_1",
+    "metal": "Fe",
+    "mechanism": "periplasmic",
+    "gene_id": "1",
+    "description": "Profile HMM for Fe periplasmic gene 1."
+  },
+  {
+    "id": "Fe_permease_efeU_1",
+    "metal": "Fe",
+    "mechanism": "permease",
+    "gene_id": "efeU",
+    "description": "Profile HMM for Fe permease gene efeU."
+  },
+  {
+    "id": "Fe_pyochelin_1",
+    "metal": "Fe",
+    "mechanism": "pyochelin",
+    "gene_id": "1",
+    "description": "Profile HMM for Fe pyochelin gene 1."
+  },
+  {
+    "id": "Fe_superoxide_dismutase_1",
+    "metal": "Fe",
+    "mechanism": "superoxide",
+    "gene_id": "dismutase",
+    "description": "Profile HMM for Fe superoxide gene dismutase."
+  },
+  {
+    "id": "Fe_transport_1",
+    "metal": "Fe",
+    "mechanism": "transport",
+    "gene_id": "1",
+    "description": "Profile HMM for Fe transport gene 1."
+  },
+  {
+    "id": "Fe_transport_2",
+    "metal": "Fe",
+    "mechanism": "transport",
+    "gene_id": "2",
+    "description": "Profile HMM for Fe transport gene 2."
+  },
+  {
+    "id": "Fe_transport_3",
+    "metal": "Fe",
+    "mechanism": "transport",
+    "gene_id": "3",
+    "description": "Profile HMM for Fe transport gene 3."
+  },
+  {
+    "id": "Fe_transport_fbpB_1",
+    "metal": "Fe",
+    "mechanism": "transport",
+    "gene_id": "fbpB",
+    "description": "Profile HMM for Fe transport gene fbpB."
+  },
+  {
+    "id": "Fe_transport_fbpC_1",
+    "metal": "Fe",
+    "mechanism": "transport",
+    "gene_id": "fbpC",
+    "description": "Profile HMM for Fe transport gene fbpC."
+  },
+  {
+    "id": "Fe_transport_fecD_1",
+    "metal": "Fe",
+    "mechanism": "transport",
+    "gene_id": "fecD",
+    "description": "Profile HMM for Fe transport gene fecD."
+  },
+  {
+    "id": "Fe_transport_fecE_1",
+    "metal": "Fe",
+    "mechanism": "transport",
+    "gene_id": "fecE",
+    "description": "Profile HMM for Fe transport gene fecE."
+  },
+  {
+    "id": "Hg_merE_1",
+    "metal": "Hg",
+    "mechanism": "merE",
+    "gene_id": "1",
+    "description": "Profile HMM for Hg merE gene 1."
+  },
+  {
+    "id": "Hg_reductase_1",
+    "metal": "Hg",
+    "mechanism": "reductase",
+    "gene_id": "1",
+    "description": "Profile HMM for Hg reductase gene 1."
+  },
+  {
+    "id": "Hg_reductase_10",
+    "metal": "Hg",
+    "mechanism": "reductase",
+    "gene_id": "10",
+    "description": "Profile HMM for Hg reductase gene 10."
+  },
+  {
+    "id": "Hg_reductase_11",
+    "metal": "Hg",
+    "mechanism": "reductase",
+    "gene_id": "11",
+    "description": "Profile HMM for Hg reductase gene 11."
+  },
+  {
+    "id": "Hg_reductase_12",
+    "metal": "Hg",
+    "mechanism": "reductase",
+    "gene_id": "12",
+    "description": "Profile HMM for Hg reductase gene 12."
+  },
+  {
+    "id": "Hg_reductase_2",
+    "metal": "Hg",
+    "mechanism": "reductase",
+    "gene_id": "2",
+    "description": "Profile HMM for Hg reductase gene 2."
+  },
+  {
+    "id": "Hg_reductase_3",
+    "metal": "Hg",
+    "mechanism": "reductase",
+    "gene_id": "3",
+    "description": "Profile HMM for Hg reductase gene 3."
+  },
+  {
+    "id": "Hg_reductase_4",
+    "metal": "Hg",
+    "mechanism": "reductase",
+    "gene_id": "4",
+    "description": "Profile HMM for Hg reductase gene 4."
+  },
+  {
+    "id": "Hg_reductase_5",
+    "metal": "Hg",
+    "mechanism": "reductase",
+    "gene_id": "5",
+    "description": "Profile HMM for Hg reductase gene 5."
+  },
+  {
+    "id": "Hg_reductase_6",
+    "metal": "Hg",
+    "mechanism": "reductase",
+    "gene_id": "6",
+    "description": "Profile HMM for Hg reductase gene 6."
+  },
+  {
+    "id": "Hg_reductase_7",
+    "metal": "Hg",
+    "mechanism": "reductase",
+    "gene_id": "7",
+    "description": "Profile HMM for Hg reductase gene 7."
+  },
+  {
+    "id": "Hg_reductase_8",
+    "metal": "Hg",
+    "mechanism": "reductase",
+    "gene_id": "8",
+    "description": "Profile HMM for Hg reductase gene 8."
+  },
+  {
+    "id": "Hg_reductase_9",
+    "metal": "Hg",
+    "mechanism": "reductase",
+    "gene_id": "9",
+    "description": "Profile HMM for Hg reductase gene 9."
+  },
+  {
+    "id": "Hg_transport_1",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "1",
+    "description": "Profile HMM for Hg transport gene 1."
+  },
+  {
+    "id": "Hg_transport_merC_1",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "merC",
+    "description": "Profile HMM for Hg transport gene merC."
+  },
+  {
+    "id": "Hg_transport_merC_2",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "merC",
+    "description": "Profile HMM for Hg transport gene merC."
+  },
+  {
+    "id": "Hg_transport_merT_1",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "merT",
+    "description": "Profile HMM for Hg transport gene merT."
+  },
+  {
+    "id": "Hg_transport_merT_2",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "merT",
+    "description": "Profile HMM for Hg transport gene merT."
+  },
+  {
+    "id": "Hg_transport_merT_3",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "merT",
+    "description": "Profile HMM for Hg transport gene merT."
+  },
+  {
+    "id": "Hg_transport_merT_4",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "merT",
+    "description": "Profile HMM for Hg transport gene merT."
+  },
+  {
+    "id": "Hg_transport_periplasmic_1",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "periplasmic",
+    "description": "Profile HMM for Hg transport gene periplasmic."
+  },
+  {
+    "id": "Hg_transport_periplasmic_10",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "periplasmic",
+    "description": "Profile HMM for Hg transport gene periplasmic."
+  },
+  {
+    "id": "Hg_transport_periplasmic_12",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "periplasmic",
+    "description": "Profile HMM for Hg transport gene periplasmic."
+  },
+  {
+    "id": "Hg_transport_periplasmic_2",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "periplasmic",
+    "description": "Profile HMM for Hg transport gene periplasmic."
+  },
+  {
+    "id": "Hg_transport_periplasmic_3",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "periplasmic",
+    "description": "Profile HMM for Hg transport gene periplasmic."
+  },
+  {
+    "id": "Hg_transport_periplasmic_4",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "periplasmic",
+    "description": "Profile HMM for Hg transport gene periplasmic."
+  },
+  {
+    "id": "Hg_transport_periplasmic_5",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "periplasmic",
+    "description": "Profile HMM for Hg transport gene periplasmic."
+  },
+  {
+    "id": "Hg_transport_periplasmic_6",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "periplasmic",
+    "description": "Profile HMM for Hg transport gene periplasmic."
+  },
+  {
+    "id": "Hg_transport_periplasmic_7",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "periplasmic",
+    "description": "Profile HMM for Hg transport gene periplasmic."
+  },
+  {
+    "id": "Hg_transport_periplasmic_8",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "periplasmic",
+    "description": "Profile HMM for Hg transport gene periplasmic."
+  },
+  {
+    "id": "Hg_transport_periplasmic_9",
+    "metal": "Hg",
+    "mechanism": "transport",
+    "gene_id": "periplasmic",
+    "description": "Profile HMM for Hg transport gene periplasmic."
+  },
+  {
+    "id": "Metal_binding_zinT_1",
+    "metal": "Metal",
+    "mechanism": "binding",
+    "gene_id": "zinT",
+    "description": "Profile HMM for Metal binding gene zinT."
+  },
+  {
+    "id": "MgCo_corC_1",
+    "metal": "MgCo",
+    "mechanism": "corC",
+    "gene_id": "1",
+    "description": "Profile HMM for MgCo corC gene 1."
+  },
+  {
+    "id": "Mg_transport_ATPase_1",
+    "metal": "Mg",
+    "mechanism": "transport",
+    "gene_id": "ATPase",
+    "description": "Profile HMM for Mg transport gene ATPase."
+  },
+  {
+    "id": "Mg_transport_corA_1",
+    "metal": "Mg",
+    "mechanism": "transport",
+    "gene_id": "corA",
+    "description": "Profile HMM for Mg transport gene corA."
+  },
+  {
+    "id": "Mn_binding_mntA_1",
+    "metal": "Mn",
+    "mechanism": "binding",
+    "gene_id": "mntA",
+    "description": "Profile HMM for Mn binding gene mntA."
+  },
+  {
+    "id": "Mn_transport_ATPase_1",
+    "metal": "Mn",
+    "mechanism": "transport",
+    "gene_id": "ATPase",
+    "description": "Profile HMM for Mn transport gene ATPase."
+  },
+  {
+    "id": "Mo_binding_modA_1",
+    "metal": "Mo",
+    "mechanism": "binding",
+    "gene_id": "modA",
+    "description": "Profile HMM for Mo binding gene modA."
+  },
+  {
+    "id": "Mo_binding_molA_1",
+    "metal": "Mo",
+    "mechanism": "binding",
+    "gene_id": "molA",
+    "description": "Profile HMM for Mo binding gene molA."
+  },
+  {
+    "id": "Multidrug_efflux_yfmO_1",
+    "metal": "Multidrug",
+    "mechanism": "efflux",
+    "gene_id": "yfmO",
+    "description": "Profile HMM for Multidrug efflux gene yfmO."
+  },
+  {
+    "id": "Multidrug_efflux_yfmO_2",
+    "metal": "Multidrug",
+    "mechanism": "efflux",
+    "gene_id": "yfmO",
+    "description": "Profile HMM for Multidrug efflux gene yfmO."
+  },
+  {
+    "id": "Multidrug_resistance_mdtA_1",
+    "metal": "Multidrug",
+    "mechanism": "resistance",
+    "gene_id": "mdtA",
+    "description": "Profile HMM for Multidrug resistance gene mdtA."
+  },
+  {
+    "id": "Multidrug_resistance_mdtB_1",
+    "metal": "Multidrug",
+    "mechanism": "resistance",
+    "gene_id": "mdtB",
+    "description": "Profile HMM for Multidrug resistance gene mdtB."
+  },
+  {
+    "id": "Multidrug_resistance_mdtC_1",
+    "metal": "Multidrug",
+    "mechanism": "resistance",
+    "gene_id": "mdtC",
+    "description": "Profile HMM for Multidrug resistance gene mdtC."
+  },
+  {
+    "id": "NiCoCd_resistance_nccA_1",
+    "metal": "NiCoCd",
+    "mechanism": "resistance",
+    "gene_id": "nccA",
+    "description": "Profile HMM for NiCoCd resistance gene nccA."
+  },
+  {
+    "id": "NiCoCd_resistance_nccA_2",
+    "metal": "NiCoCd",
+    "mechanism": "resistance",
+    "gene_id": "nccA",
+    "description": "Profile HMM for NiCoCd resistance gene nccA."
+  },
+  {
+    "id": "NiCoCd_resistance_nccB_1",
+    "metal": "NiCoCd",
+    "mechanism": "resistance",
+    "gene_id": "nccB",
+    "description": "Profile HMM for NiCoCd resistance gene nccB."
+  },
+  {
+    "id": "NiCoCd_resistance_nccB_2",
+    "metal": "NiCoCd",
+    "mechanism": "resistance",
+    "gene_id": "nccB",
+    "description": "Profile HMM for NiCoCd resistance gene nccB."
+  },
+  {
+    "id": "NiCoCd_resistance_nccC_1",
+    "metal": "NiCoCd",
+    "mechanism": "resistance",
+    "gene_id": "nccC",
+    "description": "Profile HMM for NiCoCd resistance gene nccC."
+  },
+  {
+    "id": "NiCoCd_resistance_nccN_1",
+    "metal": "NiCoCd",
+    "mechanism": "resistance",
+    "gene_id": "nccN",
+    "description": "Profile HMM for NiCoCd resistance gene nccN."
+  },
+  {
+    "id": "NiCo_efflux_1",
+    "metal": "NiCo",
+    "mechanism": "efflux",
+    "gene_id": "1",
+    "description": "Profile HMM for NiCo efflux gene 1."
+  },
+  {
+    "id": "NiCo_efflux_rcnA_1",
+    "metal": "NiCo",
+    "mechanism": "efflux",
+    "gene_id": "rcnA",
+    "description": "Profile HMM for NiCo efflux gene rcnA."
+  },
+  {
+    "id": "NiCo_efflux_rcnA_2",
+    "metal": "NiCo",
+    "mechanism": "efflux",
+    "gene_id": "rcnA",
+    "description": "Profile HMM for NiCo efflux gene rcnA."
+  },
+  {
+    "id": "NiCo_efflux_rcnA_3",
+    "metal": "NiCo",
+    "mechanism": "efflux",
+    "gene_id": "rcnA",
+    "description": "Profile HMM for NiCo efflux gene rcnA."
+  },
+  {
+    "id": "NiCo_efflux_rcnA_4",
+    "metal": "NiCo",
+    "mechanism": "efflux",
+    "gene_id": "rcnA",
+    "description": "Profile HMM for NiCo efflux gene rcnA."
+  },
+  {
+    "id": "NiCo_efflux_rcnA_5",
+    "metal": "NiCo",
+    "mechanism": "efflux",
+    "gene_id": "rcnA",
+    "description": "Profile HMM for NiCo efflux gene rcnA."
+  },
+  {
+    "id": "NiCo_resistance_cnrA_1",
+    "metal": "NiCo",
+    "mechanism": "resistance",
+    "gene_id": "cnrA",
+    "description": "Profile HMM for NiCo resistance gene cnrA."
+  },
+  {
+    "id": "NiCo_resistance_cnrA_2",
+    "metal": "NiCo",
+    "mechanism": "resistance",
+    "gene_id": "cnrA",
+    "description": "Profile HMM for NiCo resistance gene cnrA."
+  },
+  {
+    "id": "NiCo_resistance_cnrB_1",
+    "metal": "NiCo",
+    "mechanism": "resistance",
+    "gene_id": "cnrB",
+    "description": "Profile HMM for NiCo resistance gene cnrB."
+  },
+  {
+    "id": "NiCo_resistance_cnrC_1",
+    "metal": "NiCo",
+    "mechanism": "resistance",
+    "gene_id": "cnrC",
+    "description": "Profile HMM for NiCo resistance gene cnrC."
+  },
+  {
+    "id": "NiCo_resistance_cnrC_2",
+    "metal": "NiCo",
+    "mechanism": "resistance",
+    "gene_id": "cnrC",
+    "description": "Profile HMM for NiCo resistance gene cnrC."
+  },
+  {
+    "id": "NiCo_resistance_cnrC_3",
+    "metal": "NiCo",
+    "mechanism": "resistance",
+    "gene_id": "cnrC",
+    "description": "Profile HMM for NiCo resistance gene cnrC."
+  },
+  {
+    "id": "Ni_Import_nikE_1",
+    "metal": "Ni",
+    "mechanism": "Import",
+    "gene_id": "nikE",
+    "description": "Profile HMM for Ni Import gene nikE."
+  },
+  {
+    "id": "Ni_import_nikD_1",
+    "metal": "Ni",
+    "mechanism": "import",
+    "gene_id": "nikD",
+    "description": "Profile HMM for Ni import gene nikD."
+  },
+  {
+    "id": "Ni_periplasmic_1",
+    "metal": "Ni",
+    "mechanism": "periplasmic",
+    "gene_id": "1",
+    "description": "Profile HMM for Ni periplasmic gene 1."
+  },
+  {
+    "id": "Ni_permease_nikB_1",
+    "metal": "Ni",
+    "mechanism": "permease",
+    "gene_id": "nikB",
+    "description": "Profile HMM for Ni permease gene nikB."
+  },
+  {
+    "id": "Ni_permease_nikC_1",
+    "metal": "Ni",
+    "mechanism": "permease",
+    "gene_id": "nikC",
+    "description": "Profile HMM for Ni permease gene nikC."
+  },
+  {
+    "id": "Ni_protein_hupE_1",
+    "metal": "Ni",
+    "mechanism": "protein",
+    "gene_id": "hupE",
+    "description": "Profile HMM for Ni protein gene hupE."
+  },
+  {
+    "id": "Ni_protein_hupE_2",
+    "metal": "Ni",
+    "mechanism": "protein",
+    "gene_id": "hupE",
+    "description": "Profile HMM for Ni protein gene hupE."
+  },
+  {
+    "id": "Ni_transport_nixA_1",
+    "metal": "Ni",
+    "mechanism": "transport",
+    "gene_id": "nixA",
+    "description": "Profile HMM for Ni transport gene nixA."
+  },
+  {
+    "id": "Quinone_reductase_arsH_1",
+    "metal": "Quinone",
+    "mechanism": "reductase",
+    "gene_id": "arsH",
+    "description": "Profile HMM for Quinone reductase gene arsH."
+  },
+  {
+    "id": "Te_protein_klaB_1",
+    "metal": "Te",
+    "mechanism": "protein",
+    "gene_id": "klaB",
+    "description": "Profile HMM for Te protein gene klaB."
+  },
+  {
+    "id": "Te_protein_klaC_1",
+    "metal": "Te",
+    "mechanism": "protein",
+    "gene_id": "klaC",
+    "description": "Profile HMM for Te protein gene klaC."
+  },
+  {
+    "id": "Te_protein_klaC_2",
+    "metal": "Te",
+    "mechanism": "protein",
+    "gene_id": "klaC",
+    "description": "Profile HMM for Te protein gene klaC."
+  },
+  {
+    "id": "Te_resistance_terA_1",
+    "metal": "Te",
+    "mechanism": "resistance",
+    "gene_id": "terA",
+    "description": "Profile HMM for Te resistance gene terA."
+  },
+  {
+    "id": "Te_resistance_terA_2",
+    "metal": "Te",
+    "mechanism": "resistance",
+    "gene_id": "terA",
+    "description": "Profile HMM for Te resistance gene terA."
+  },
+  {
+    "id": "Te_resistance_terB_1",
+    "metal": "Te",
+    "mechanism": "resistance",
+    "gene_id": "terB",
+    "description": "Profile HMM for Te resistance gene terB."
+  },
+  {
+    "id": "Te_resistance_terB_2",
+    "metal": "Te",
+    "mechanism": "resistance",
+    "gene_id": "terB",
+    "description": "Profile HMM for Te resistance gene terB."
+  },
+  {
+    "id": "Te_resistance_terB_3",
+    "metal": "Te",
+    "mechanism": "resistance",
+    "gene_id": "terB",
+    "description": "Profile HMM for Te resistance gene terB."
+  },
+  {
+    "id": "Te_resistance_terB_4",
+    "metal": "Te",
+    "mechanism": "resistance",
+    "gene_id": "terB",
+    "description": "Profile HMM for Te resistance gene terB."
+  },
+  {
+    "id": "Te_resistance_terC_1",
+    "metal": "Te",
+    "mechanism": "resistance",
+    "gene_id": "terC",
+    "description": "Profile HMM for Te resistance gene terC."
+  },
+  {
+    "id": "Te_resistance_terD_1",
+    "metal": "Te",
+    "mechanism": "resistance",
+    "gene_id": "terD",
+    "description": "Profile HMM for Te resistance gene terD."
+  },
+  {
+    "id": "Te_resistance_terE_1",
+    "metal": "Te",
+    "mechanism": "resistance",
+    "gene_id": "terE",
+    "description": "Profile HMM for Te resistance gene terE."
+  },
+  {
+    "id": "Te_resistance_terZ_1",
+    "metal": "Te",
+    "mechanism": "resistance",
+    "gene_id": "terZ",
+    "description": "Profile HMM for Te resistance gene terZ."
+  },
+  {
+    "id": "ZnCdPb_ATPase_1",
+    "metal": "ZnCdPb",
+    "mechanism": "ATPase",
+    "gene_id": "1",
+    "description": "Profile HMM for ZnCdPb ATPase gene 1."
+  },
+  {
+    "id": "ZnCdPb_ATPase_2",
+    "metal": "ZnCdPb",
+    "mechanism": "ATPase",
+    "gene_id": "2",
+    "description": "Profile HMM for ZnCdPb ATPase gene 2."
+  },
+  {
+    "id": "ZnCdPb_ATPase_3",
+    "metal": "ZnCdPb",
+    "mechanism": "ATPase",
+    "gene_id": "3",
+    "description": "Profile HMM for ZnCdPb ATPase gene 3."
+  },
+  {
+    "id": "Zn_ATPase_1",
+    "metal": "Zn",
+    "mechanism": "ATPase",
+    "gene_id": "1",
+    "description": "Profile HMM for Zn ATPase gene 1."
+  },
+  {
+    "id": "Zn_ATPase_2",
+    "metal": "Zn",
+    "mechanism": "ATPase",
+    "gene_id": "2",
+    "description": "Profile HMM for Zn ATPase gene 2."
+  },
+  {
+    "id": "Zn_binding_troA_1",
+    "metal": "Zn",
+    "mechanism": "binding",
+    "gene_id": "troA",
+    "description": "Profile HMM for Zn binding gene troA."
+  },
+  {
+    "id": "Zn_import_znuC_1",
+    "metal": "Zn",
+    "mechanism": "import",
+    "gene_id": "znuC",
+    "description": "Profile HMM for Zn import gene znuC."
+  },
+  {
+    "id": "Zn_transport_gufA_1",
+    "metal": "Zn",
+    "mechanism": "transport",
+    "gene_id": "gufA",
+    "description": "Profile HMM for Zn transport gene gufA."
+  },
+  {
+    "id": "Zn_transport_troB_1",
+    "metal": "Zn",
+    "mechanism": "transport",
+    "gene_id": "troB",
+    "description": "Profile HMM for Zn transport gene troB."
+  },
+  {
+    "id": "Zn_transport_troC_1",
+    "metal": "Zn",
+    "mechanism": "transport",
+    "gene_id": "troC",
+    "description": "Profile HMM for Zn transport gene troC."
+  },
+  {
+    "id": "Zn_transport_troD_1",
+    "metal": "Zn",
+    "mechanism": "transport",
+    "gene_id": "troD",
+    "description": "Profile HMM for Zn transport gene troD."
+  },
+  {
+    "id": "Zn_transport_zitB_1",
+    "metal": "Zn",
+    "mechanism": "transport",
+    "gene_id": "zitB",
+    "description": "Profile HMM for Zn transport gene zitB."
+  },
+  {
+    "id": "Zn_transport_zupT_1",
+    "metal": "Zn",
+    "mechanism": "transport",
+    "gene_id": "zupT",
+    "description": "Profile HMM for Zn transport gene zupT."
+  },
+  {
+    "id": "Zn_uptake_znuA_1",
+    "metal": "Zn",
+    "mechanism": "uptake",
+    "gene_id": "znuA",
+    "description": "Profile HMM for Zn uptake gene znuA."
+  },
+  {
+    "id": "Zn_uptake_znuB_1",
+    "metal": "Zn",
+    "mechanism": "uptake",
+    "gene_id": "znuB",
+    "description": "Profile HMM for Zn uptake gene znuB."
+  },
+  {
+    "id": "Zn_uptake_znuB_2",
+    "metal": "Zn",
+    "mechanism": "uptake",
+    "gene_id": "znuB",
+    "description": "Profile HMM for Zn uptake gene znuB."
+  },
+  {
+    "id": "Zn_uptake_znuC_1",
+    "metal": "Zn",
+    "mechanism": "uptake",
+    "gene_id": "znuC",
+    "description": "Profile HMM for Zn uptake gene znuC."
+  }
+]
