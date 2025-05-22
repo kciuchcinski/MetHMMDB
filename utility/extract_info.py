@@ -111,7 +111,7 @@ for _, row in metadata_df.iterrows():
         'best_foldseek_hit': row['best_foldseek_hit'],
         'foldseek_hit_evalue': row['foldseek_hit_evalue'],
         'hmm_file': f"hmms/{row['model']}.hmm",
-        'alignment_file': f"alignments/{row['model']}.sto",
+        'alignment_file': f"alignments/{row['model']}.aln",
         'sequence_file': f"sequences/{row['model']}.fasta"
     }
     final_data.append(model_entry)
