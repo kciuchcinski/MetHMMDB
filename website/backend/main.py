@@ -19,9 +19,7 @@ class Config:
     HMM_DB_PATH = os.getenv("HMM_DB_PATH", "data/methmmdb_v1.0.hmm")
     METADATA_PATH = os.getenv("METADATA_PATH", "data/browse_models_data.json")
     LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
-    DEFAULT_EVALUE_THRESHOLD = float(os.getenv("DEFAULT_EVALUE_THRESHOLD", "1e-5"))
-    MAX_EVALUE_THRESHOLD = float(os.getenv("MAX_EVALUE_THRESHOLD", "10.0"))
-    ALLOWED_ORIGINS = os.getenv("ALLOWED_ORIGINS", "*").split(",")
+    ALLOWED_ORIGINS = os.getenv("ALLOWED_ORIGINS")
     NUM_CPUS = int(os.getenv("NUM_CPUS", "4"))
 
 # --- Logging Setup ---
@@ -34,6 +32,7 @@ logger = logging.getLogger(__name__)
 # --- Pydantic Models ---
 class SearchRequest(BaseModel):
     sequence: str = Field(..., description="Protein sequence to search")
+    evalue: Optional[float] = 1e-5
     
     @field_validator('sequence')
     def validate_sequence(cls, v):
@@ -75,7 +74,8 @@ app = FastAPI(
 # CORS Middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=Config.ALLOWED_ORIGINS,
+    #allow_origins=Config.ALLOWED_ORIGINS,
+    allow_origins=["http://localhost:5173"],
     allow_credentials=True,
     allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["*"],
@@ -143,7 +143,12 @@ async def load_resources():
 def validate_and_prepare_sequence(request: SearchRequest) -> TextSequence:
     """Validate and prepare a sequence for searching."""
     sequence_str = request.sequence.strip()
+    # Split on newlines and join to ensure single line
+    # also make sure the header is removed
+    sequence_str = ''.join([s for s in sequence_str.split('\n') if not s.startswith(">")])
+    logger.info(sequence_str)
     try:
+        logger.info("returning sequence")
         return TextSequence(name=b"user_query_seq", sequence=sequence_str)
     except Exception as e:
         logger.error(f"Error preparing sequence: {e}")
@@ -153,12 +158,6 @@ def validate_and_prepare_sequence(request: SearchRequest) -> TextSequence:
 @app.post("/search", response_model=SearchResponse)
 async def search_sequence_with_pipeline(
     request: SearchRequest,
-    evalue: float = Query(
-        Config.DEFAULT_EVALUE_THRESHOLD,
-        description="E-value threshold for filtering results (lower is more stringent)",
-        ge=0.0,
-        le=Config.MAX_EVALUE_THRESHOLD
-    ),
     text_sequence: TextSequence = Depends(validate_and_prepare_sequence)
 ):
     """
@@ -170,6 +169,7 @@ async def search_sequence_with_pipeline(
     if not hmm_db:
         logger.error("HMM database is not loaded or empty. Cannot perform search.")
         raise HTTPException(status_code=503, detail="HMM database not available. Please check server logs.")
+    evalue = request.evalue
 
     logger.info(f"Pipeline Search: Received sequence: {request.sequence[:30]}... with E-value threshold: {evalue}")
     
