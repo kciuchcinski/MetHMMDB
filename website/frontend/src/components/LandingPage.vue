@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { Database, Download, Search } from "lucide-vue-next";
+import { Database, Download, Search, ScanLine } from "lucide-vue-next";
 </script>
 
 <template>
@@ -28,6 +28,13 @@ import { Database, Download, Search } from "lucide-vue-next";
             <router-link to="/browse">
               <Search class="w-5 h-5" />
               Browse Models
+            </router-link>
+          </Button>
+
+          <Button size="lg" class="gap-2" asChild>
+            <router-link to="/search">
+              <ScanLine class="w-5 h-5" />
+              Search
             </router-link>
           </Button>
 

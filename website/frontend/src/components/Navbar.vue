@@ -11,6 +11,11 @@ import { Github } from 'lucide-vue-next'
       </router-link>
       
       <div class="flex items-center space-x-4">
+        <router-link to="/search">
+          <Button variant="ghost" class="text-slate-700">
+            Search
+          </Button>
+        </router-link>
         <router-link to="/browse">
           <Button variant="ghost" class="text-slate-700">
             Browse Models
