@@ -6,7 +6,8 @@ import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Search, AlertCircle, Loader2, InfoIcon } from "lucide-vue-next";
 
-const API_URL = "http://localhost:8000/search";
+//const API_URL = "http://localhost:8000/search";
+const API_URL = import.meta.env.VITE_API_URL
 
 // State for the form
 const sequenceInput = ref("");

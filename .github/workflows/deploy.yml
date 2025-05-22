@@ -26,6 +26,8 @@ jobs:
         run: |
           cd website/frontend
           npm run build
+        env:
+          VITE_API_URL: ${{ vars.VITE_API_URL }}
           
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
