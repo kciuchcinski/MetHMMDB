@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import LandingPage from '@/components/LandingPage.vue'
 import Downloads from '@/components/Downloads.vue'
-import Browse from '@/components/Browse.vue'
+import BrowseModels from '@/components/BrowseModels.vue'
 import About from '@/components/About.vue'
 
 const routes = [
@@ -19,12 +19,12 @@ const routes = [
   {
     path: '/browse',
     name: 'Browse',
-    component: Browse // This can be a placeholder component for now
+    component: BrowseModels
   },
   {
     path: '/about',
     name: 'About',
-    component: About // This can be a placeholder component for now
+    component: About
   }
 ]
 
