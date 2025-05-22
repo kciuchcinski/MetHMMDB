@@ -52,7 +52,7 @@ const maxModelLength = ref(1000);
 const minSequenceCount = ref(0); // New min for sequence count
 const maxSequenceCount = ref(1000); // New max for sequence count
 
-const downloadFile = (filePath) => {
+const downloadFile = (filePath: string) => {
   if (!filePath) return;
   
   // GitHub raw content URL format
