@@ -14,6 +14,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Ag_ATPase_1.hmm",
       "alignment_file": "alignments/Ag_ATPase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Ag_ATPase_1.fasta"
     },
     {
@@ -30,6 +31,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Ag_efflux_silA_1.hmm",
       "alignment_file": "alignments/Ag_efflux_silA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Ag_efflux_silA_1.fasta"
     },
     {
@@ -46,6 +48,7 @@
       "foldseek_hit_evalue": "3.515e-62",
       "hmm_file": "hmms/Ag_lipoprotein_silC_1.hmm",
       "alignment_file": "alignments/Ag_lipoprotein_silC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Ag_lipoprotein_silC_1.fasta"
     },
     {
@@ -62,6 +65,7 @@
       "foldseek_hit_evalue": "1.4060000000000002e-71",
       "hmm_file": "hmms/Ag_membrane_silB_1.hmm",
       "alignment_file": "alignments/Ag_membrane_silB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Ag_membrane_silB_1.fasta"
     },
     {
@@ -78,6 +82,7 @@
       "foldseek_hit_evalue": "3.665e-25",
       "hmm_file": "hmms/As_glutaredoxin_1.hmm",
       "alignment_file": "alignments/As_glutaredoxin_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_glutaredoxin_1.fasta"
     },
     {
@@ -97,6 +102,7 @@
       "foldseek_hit_evalue": "1.25e-41",
       "hmm_file": "hmms/As_lyase_1.hmm",
       "alignment_file": "alignments/As_lyase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_lyase_1.fasta"
     },
     {
@@ -116,6 +122,7 @@
       "foldseek_hit_evalue": "5.627e-32",
       "hmm_file": "hmms/As_lyase_2.hmm",
       "alignment_file": "alignments/As_lyase_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_lyase_2.fasta"
     },
     {
@@ -135,6 +142,7 @@
       "foldseek_hit_evalue": "5.387e-35",
       "hmm_file": "hmms/As_lyase_3.hmm",
       "alignment_file": "alignments/As_lyase_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_lyase_3.fasta"
     },
     {
@@ -155,6 +163,7 @@
       "foldseek_hit_evalue": "2.76e-54",
       "hmm_file": "hmms/As_methyltransferase_1.hmm",
       "alignment_file": "alignments/As_methyltransferase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_methyltransferase_1.fasta"
     },
     {
@@ -175,6 +184,7 @@
       "foldseek_hit_evalue": "3.158e-18",
       "hmm_file": "hmms/As_methyltransferase_2.hmm",
       "alignment_file": "alignments/As_methyltransferase_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_methyltransferase_2.fasta"
     },
     {
@@ -195,6 +205,7 @@
       "foldseek_hit_evalue": "1.029e-55",
       "hmm_file": "hmms/As_methyltransferase_3.hmm",
       "alignment_file": "alignments/As_methyltransferase_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_methyltransferase_3.fasta"
     },
     {
@@ -215,6 +226,7 @@
       "foldseek_hit_evalue": "8.654999999999999e-75",
       "hmm_file": "hmms/As_methyltransferase_4.hmm",
       "alignment_file": "alignments/As_methyltransferase_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_methyltransferase_4.fasta"
     },
     {
@@ -235,6 +247,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/As_oxidase_aioA_1.hmm",
       "alignment_file": "alignments/As_oxidase_aioA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_oxidase_aioA_1.fasta"
     },
     {
@@ -255,6 +268,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/As_oxidase_aioA_2.hmm",
       "alignment_file": "alignments/As_oxidase_aioA_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_oxidase_aioA_2.fasta"
     },
     {
@@ -275,6 +289,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/As_oxidase_aioA_3.hmm",
       "alignment_file": "alignments/As_oxidase_aioA_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_oxidase_aioA_3.fasta"
     },
     {
@@ -295,6 +310,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/As_oxidase_aioA_4.hmm",
       "alignment_file": "alignments/As_oxidase_aioA_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_oxidase_aioA_4.fasta"
     },
     {
@@ -315,6 +331,7 @@
       "foldseek_hit_evalue": "4.981e-18",
       "hmm_file": "hmms/As_oxidase_aioB_1.hmm",
       "alignment_file": "alignments/As_oxidase_aioB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_oxidase_aioB_1.fasta"
     },
     {
@@ -335,6 +352,7 @@
       "foldseek_hit_evalue": "2.767e-18",
       "hmm_file": "hmms/As_oxidase_aioB_2.hmm",
       "alignment_file": "alignments/As_oxidase_aioB_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_oxidase_aioB_2.fasta"
     },
     {
@@ -355,6 +373,7 @@
       "foldseek_hit_evalue": "3.7630000000000002e-28",
       "hmm_file": "hmms/As_oxidase_aioB_3.hmm",
       "alignment_file": "alignments/As_oxidase_aioB_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_oxidase_aioB_3.fasta"
     },
     {
@@ -375,6 +394,7 @@
       "foldseek_hit_evalue": "1.447e-15",
       "hmm_file": "hmms/As_oxidase_aioB_4.hmm",
       "alignment_file": "alignments/As_oxidase_aioB_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_oxidase_aioB_4.fasta"
     },
     {
@@ -399,6 +419,7 @@
       "foldseek_hit_evalue": "2.003e-56",
       "hmm_file": "hmms/As_pump_1.hmm",
       "alignment_file": "alignments/As_pump_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_pump_1.fasta"
     },
     {
@@ -423,6 +444,7 @@
       "foldseek_hit_evalue": "4.9050000000000005e-56",
       "hmm_file": "hmms/As_pump_2.hmm",
       "alignment_file": "alignments/As_pump_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_pump_2.fasta"
     },
     {
@@ -447,6 +469,7 @@
       "foldseek_hit_evalue": "8.421e-56",
       "hmm_file": "hmms/As_pump_3.hmm",
       "alignment_file": "alignments/As_pump_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_pump_3.fasta"
     },
     {
@@ -471,6 +494,7 @@
       "foldseek_hit_evalue": "3.833e-56",
       "hmm_file": "hmms/As_pump_4.hmm",
       "alignment_file": "alignments/As_pump_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_pump_4.fasta"
     },
     {
@@ -495,6 +519,7 @@
       "foldseek_hit_evalue": "1.333e-93",
       "hmm_file": "hmms/As_pump_5.hmm",
       "alignment_file": "alignments/As_pump_5.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_pump_5.fasta"
     },
     {
@@ -519,6 +544,7 @@
       "foldseek_hit_evalue": "9.852999999999999e-90",
       "hmm_file": "hmms/As_pump_6.hmm",
       "alignment_file": "alignments/As_pump_6.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_pump_6.fasta"
     },
     {
@@ -543,6 +569,7 @@
       "foldseek_hit_evalue": "9.182000000000001e-99",
       "hmm_file": "hmms/As_pump_7.hmm",
       "alignment_file": "alignments/As_pump_7.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_pump_7.fasta"
     },
     {
@@ -567,6 +594,7 @@
       "foldseek_hit_evalue": "8.915000000000001e-76",
       "hmm_file": "hmms/As_pump_8.hmm",
       "alignment_file": "alignments/As_pump_8.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_pump_8.fasta"
     },
     {
@@ -588,6 +616,7 @@
       "foldseek_hit_evalue": "3.583e-27",
       "hmm_file": "hmms/As_reductase_1.hmm",
       "alignment_file": "alignments/As_reductase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_reductase_1.fasta"
     },
     {
@@ -609,6 +638,7 @@
       "foldseek_hit_evalue": "1.21e-28",
       "hmm_file": "hmms/As_reductase_2.hmm",
       "alignment_file": "alignments/As_reductase_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_reductase_2.fasta"
     },
     {
@@ -630,6 +660,7 @@
       "foldseek_hit_evalue": "7.984e-28",
       "hmm_file": "hmms/As_reductase_3.hmm",
       "alignment_file": "alignments/As_reductase_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_reductase_3.fasta"
     },
     {
@@ -651,6 +682,7 @@
       "foldseek_hit_evalue": "2.5159999999999998e-29",
       "hmm_file": "hmms/As_reductase_4.hmm",
       "alignment_file": "alignments/As_reductase_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_reductase_4.fasta"
     },
     {
@@ -672,6 +704,7 @@
       "foldseek_hit_evalue": "3.26e-25",
       "hmm_file": "hmms/As_reductase_5.hmm",
       "alignment_file": "alignments/As_reductase_5.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_reductase_5.fasta"
     },
     {
@@ -690,6 +723,7 @@
       "foldseek_hit_evalue": "2.256e-47",
       "hmm_file": "hmms/As_res_Acr3_1.hmm",
       "alignment_file": "alignments/As_res_Acr3_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_res_Acr3_1.fasta"
     },
     {
@@ -708,6 +742,7 @@
       "foldseek_hit_evalue": "2.379e-41",
       "hmm_file": "hmms/As_res_Acr3_2.hmm",
       "alignment_file": "alignments/As_res_Acr3_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_res_Acr3_2.fasta"
     },
     {
@@ -726,6 +761,7 @@
       "foldseek_hit_evalue": "3.011e-27",
       "hmm_file": "hmms/As_res_arsB_1.hmm",
       "alignment_file": "alignments/As_res_arsB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_res_arsB_1.fasta"
     },
     {
@@ -744,6 +780,7 @@
       "foldseek_hit_evalue": "5.184e-41",
       "hmm_file": "hmms/As_res_arsB_2.hmm",
       "alignment_file": "alignments/As_res_arsB_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/As_res_arsB_2.fasta"
     },
     {
@@ -760,6 +797,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cation_ATPase_1.hmm",
       "alignment_file": "alignments/Cation_ATPase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cation_ATPase_1.fasta"
     },
     {
@@ -776,6 +814,7 @@
       "foldseek_hit_evalue": "1.663e-49",
       "hmm_file": "hmms/Cation_efflux_fieF_1.hmm",
       "alignment_file": "alignments/Cation_efflux_fieF_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cation_efflux_fieF_1.fasta"
     },
     {
@@ -792,6 +831,7 @@
       "foldseek_hit_evalue": "1.991e-49",
       "hmm_file": "hmms/Cation_symport_actP_1.hmm",
       "alignment_file": "alignments/Cation_symport_actP_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cation_symport_actP_1.fasta"
     },
     {
@@ -810,6 +850,7 @@
       "foldseek_hit_evalue": "1.665e-21",
       "hmm_file": "hmms/Cation_tolerance_cutA_1.hmm",
       "alignment_file": "alignments/Cation_tolerance_cutA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cation_tolerance_cutA_1.fasta"
     },
     {
@@ -828,6 +869,7 @@
       "foldseek_hit_evalue": "3.618e-21",
       "hmm_file": "hmms/Cation_tolerance_cutA_2.hmm",
       "alignment_file": "alignments/Cation_tolerance_cutA_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cation_tolerance_cutA_2.fasta"
     },
     {
@@ -846,6 +888,7 @@
       "foldseek_hit_evalue": "1.63e-48",
       "hmm_file": "hmms/Cation_transport_mntH_1.hmm",
       "alignment_file": "alignments/Cation_transport_mntH_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cation_transport_mntH_1.fasta"
     },
     {
@@ -864,6 +907,7 @@
       "foldseek_hit_evalue": "2.459e-48",
       "hmm_file": "hmms/Cation_transport_mntH_2.hmm",
       "alignment_file": "alignments/Cation_transport_mntH_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cation_transport_mntH_2.fasta"
     },
     {
@@ -890,6 +934,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cd_ATPase_1.hmm",
       "alignment_file": "alignments/Cd_ATPase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cd_ATPase_1.fasta"
     },
     {
@@ -916,6 +961,7 @@
       "foldseek_hit_evalue": "2.5879999999999998e-45",
       "hmm_file": "hmms/Cd_ATPase_10.hmm",
       "alignment_file": "alignments/Cd_ATPase_10.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cd_ATPase_10.fasta"
     },
     {
@@ -942,6 +988,7 @@
       "foldseek_hit_evalue": "4.758e-41",
       "hmm_file": "hmms/Cd_ATPase_2.hmm",
       "alignment_file": "alignments/Cd_ATPase_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cd_ATPase_2.fasta"
     },
     {
@@ -968,6 +1015,7 @@
       "foldseek_hit_evalue": "7.823e-68",
       "hmm_file": "hmms/Cd_ATPase_3.hmm",
       "alignment_file": "alignments/Cd_ATPase_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cd_ATPase_3.fasta"
     },
     {
@@ -994,6 +1042,7 @@
       "foldseek_hit_evalue": "2.0809999999999998e-60",
       "hmm_file": "hmms/Cd_ATPase_4.hmm",
       "alignment_file": "alignments/Cd_ATPase_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cd_ATPase_4.fasta"
     },
     {
@@ -1020,6 +1069,7 @@
       "foldseek_hit_evalue": "3.269e-44",
       "hmm_file": "hmms/Cd_ATPase_5.hmm",
       "alignment_file": "alignments/Cd_ATPase_5.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cd_ATPase_5.fasta"
     },
     {
@@ -1046,6 +1096,7 @@
       "foldseek_hit_evalue": "4.272e-39",
       "hmm_file": "hmms/Cd_ATPase_6.hmm",
       "alignment_file": "alignments/Cd_ATPase_6.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cd_ATPase_6.fasta"
     },
     {
@@ -1072,6 +1123,7 @@
       "foldseek_hit_evalue": "2.73e-32",
       "hmm_file": "hmms/Cd_ATPase_7.hmm",
       "alignment_file": "alignments/Cd_ATPase_7.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cd_ATPase_7.fasta"
     },
     {
@@ -1098,6 +1150,7 @@
       "foldseek_hit_evalue": "2.273e-102",
       "hmm_file": "hmms/Cd_ATPase_8.hmm",
       "alignment_file": "alignments/Cd_ATPase_8.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cd_ATPase_8.fasta"
     },
     {
@@ -1124,6 +1177,7 @@
       "foldseek_hit_evalue": "4.3490000000000004e-104",
       "hmm_file": "hmms/Cd_ATPase_9.hmm",
       "alignment_file": "alignments/Cd_ATPase_9.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cd_ATPase_9.fasta"
     },
     {
@@ -1140,6 +1194,7 @@
       "foldseek_hit_evalue": "9.426e-11",
       "hmm_file": "hmms/Cd_protein_ygiW_1.hmm",
       "alignment_file": "alignments/Cd_protein_ygiW_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cd_protein_ygiW_1.fasta"
     },
     {
@@ -1160,6 +1215,7 @@
       "foldseek_hit_evalue": "6.149e-16",
       "hmm_file": "hmms/CdCoZn_antiport_1.hmm",
       "alignment_file": "alignments/CdCoZn_antiport_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_antiport_1.fasta"
     },
     {
@@ -1180,6 +1236,7 @@
       "foldseek_hit_evalue": "3.763e-42",
       "hmm_file": "hmms/CdCoZn_antiport_2.hmm",
       "alignment_file": "alignments/CdCoZn_antiport_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_antiport_2.fasta"
     },
     {
@@ -1201,6 +1258,7 @@
       "foldseek_hit_evalue": "1.796e-87",
       "hmm_file": "hmms/CdCoZn_ATPase_1.hmm",
       "alignment_file": "alignments/CdCoZn_ATPase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_ATPase_1.fasta"
     },
     {
@@ -1222,6 +1280,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/CdCoZn_ATPase_2.hmm",
       "alignment_file": "alignments/CdCoZn_ATPase_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_ATPase_2.fasta"
     },
     {
@@ -1243,6 +1302,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/CdCoZn_ATPase_3.hmm",
       "alignment_file": "alignments/CdCoZn_ATPase_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_ATPase_3.fasta"
     },
     {
@@ -1266,6 +1326,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/CdCoZn_efflux_czcA_1.hmm",
       "alignment_file": "alignments/CdCoZn_efflux_czcA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_efflux_czcA_1.fasta"
     },
     {
@@ -1289,6 +1350,7 @@
       "foldseek_hit_evalue": "3.62e-92",
       "hmm_file": "hmms/CdCoZn_efflux_czcA_2.hmm",
       "alignment_file": "alignments/CdCoZn_efflux_czcA_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_efflux_czcA_2.fasta"
     },
     {
@@ -1312,6 +1374,7 @@
       "foldseek_hit_evalue": "2.014e-91",
       "hmm_file": "hmms/CdCoZn_efflux_czcA_3.hmm",
       "alignment_file": "alignments/CdCoZn_efflux_czcA_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_efflux_czcA_3.fasta"
     },
     {
@@ -1335,6 +1398,7 @@
       "foldseek_hit_evalue": "1.1779999999999999e-89",
       "hmm_file": "hmms/CdCoZn_efflux_czcA_4.hmm",
       "alignment_file": "alignments/CdCoZn_efflux_czcA_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_efflux_czcA_4.fasta"
     },
     {
@@ -1358,6 +1422,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/CdCoZn_efflux_czcA_5.hmm",
       "alignment_file": "alignments/CdCoZn_efflux_czcA_5.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_efflux_czcA_5.fasta"
     },
     {
@@ -1381,6 +1446,7 @@
       "foldseek_hit_evalue": "5.121e-57",
       "hmm_file": "hmms/CdCoZn_efflux_czcB_1.hmm",
       "alignment_file": "alignments/CdCoZn_efflux_czcB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_efflux_czcB_1.fasta"
     },
     {
@@ -1404,6 +1470,7 @@
       "foldseek_hit_evalue": "1.2720000000000002e-84",
       "hmm_file": "hmms/CdCoZn_efflux_czcB_2.hmm",
       "alignment_file": "alignments/CdCoZn_efflux_czcB_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_efflux_czcB_2.fasta"
     },
     {
@@ -1427,6 +1494,7 @@
       "foldseek_hit_evalue": "2.333e-05",
       "hmm_file": "hmms/CdCoZn_efflux_czcB_3.hmm",
       "alignment_file": "alignments/CdCoZn_efflux_czcB_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_efflux_czcB_3.fasta"
     },
     {
@@ -1450,6 +1518,7 @@
       "foldseek_hit_evalue": "4.038e-05",
       "hmm_file": "hmms/CdCoZn_efflux_czcB_4.hmm",
       "alignment_file": "alignments/CdCoZn_efflux_czcB_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_efflux_czcB_4.fasta"
     },
     {
@@ -1473,6 +1542,7 @@
       "foldseek_hit_evalue": "2.012e-30",
       "hmm_file": "hmms/CdCoZn_efflux_czcB_5.hmm",
       "alignment_file": "alignments/CdCoZn_efflux_czcB_5.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_efflux_czcB_5.fasta"
     },
     {
@@ -1491,6 +1561,7 @@
       "foldseek_hit_evalue": "1.4139999999999998e-54",
       "hmm_file": "hmms/CdCoZn_efflux_czcC_1.hmm",
       "alignment_file": "alignments/CdCoZn_efflux_czcC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_efflux_czcC_1.fasta"
     },
     {
@@ -1511,6 +1582,7 @@
       "foldseek_hit_evalue": "3.005e-16",
       "hmm_file": "hmms/CdCoZn_efflux_czcD_1.hmm",
       "alignment_file": "alignments/CdCoZn_efflux_czcD_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_efflux_czcD_1.fasta"
     },
     {
@@ -1531,6 +1603,7 @@
       "foldseek_hit_evalue": "1.763e-46",
       "hmm_file": "hmms/CdCoZn_efflux_czcD_2.hmm",
       "alignment_file": "alignments/CdCoZn_efflux_czcD_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CdCoZn_efflux_czcD_2.fasta"
     },
     {
@@ -1547,6 +1620,7 @@
       "foldseek_hit_evalue": "1.023e-14",
       "hmm_file": "hmms/Co_methylmutase_1.hmm",
       "alignment_file": "alignments/Co_methylmutase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Co_methylmutase_1.fasta"
     },
     {
@@ -1563,6 +1637,7 @@
       "foldseek_hit_evalue": "1.648e-40",
       "hmm_file": "hmms/Co_transport_nhlF_1.hmm",
       "alignment_file": "alignments/Co_transport_nhlF_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Co_transport_nhlF_1.fasta"
     },
     {
@@ -1580,6 +1655,7 @@
       "foldseek_hit_evalue": "1.916e-23",
       "hmm_file": "hmms/CoMg_protein_apaG_1.hmm",
       "alignment_file": "alignments/CoMg_protein_apaG_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CoMg_protein_apaG_1.fasta"
     },
     {
@@ -1596,6 +1672,7 @@
       "foldseek_hit_evalue": "1.973e-57",
       "hmm_file": "hmms/Cr_protein_chrB_1.hmm",
       "alignment_file": "alignments/Cr_protein_chrB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cr_protein_chrB_1.fasta"
     },
     {
@@ -1617,6 +1694,7 @@
       "foldseek_hit_evalue": "2.923e-49",
       "hmm_file": "hmms/Cr_transport_1.hmm",
       "alignment_file": "alignments/Cr_transport_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cr_transport_1.fasta"
     },
     {
@@ -1638,6 +1716,7 @@
       "foldseek_hit_evalue": "3.74e-46",
       "hmm_file": "hmms/Cr_transport_2.hmm",
       "alignment_file": "alignments/Cr_transport_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cr_transport_2.fasta"
     },
     {
@@ -1659,6 +1738,7 @@
       "foldseek_hit_evalue": "6.202e-18",
       "hmm_file": "hmms/Cr_transport_3.hmm",
       "alignment_file": "alignments/Cr_transport_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cr_transport_3.fasta"
     },
     {
@@ -1680,6 +1760,7 @@
       "foldseek_hit_evalue": "1.186e-45",
       "hmm_file": "hmms/Cr_transport_4.hmm",
       "alignment_file": "alignments/Cr_transport_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cr_transport_4.fasta"
     },
     {
@@ -1701,6 +1782,7 @@
       "foldseek_hit_evalue": "2.4070000000000003e-46",
       "hmm_file": "hmms/Cr_transport_5.hmm",
       "alignment_file": "alignments/Cr_transport_5.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cr_transport_5.fasta"
     },
     {
@@ -1722,6 +1804,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_ATPase_1.hmm",
       "alignment_file": "alignments/Cu_ATPase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_ATPase_1.fasta"
     },
     {
@@ -1743,6 +1826,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_ATPase_2.hmm",
       "alignment_file": "alignments/Cu_ATPase_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_ATPase_2.fasta"
     },
     {
@@ -1764,6 +1848,7 @@
       "foldseek_hit_evalue": "1.2889999999999999e-51",
       "hmm_file": "hmms/Cu_ATPase_3.hmm",
       "alignment_file": "alignments/Cu_ATPase_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_ATPase_3.fasta"
     },
     {
@@ -1785,6 +1870,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_ATPase_4.hmm",
       "alignment_file": "alignments/Cu_ATPase_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_ATPase_4.fasta"
     },
     {
@@ -1806,6 +1892,7 @@
       "foldseek_hit_evalue": "2.899e-07",
       "hmm_file": "hmms/Cu_ATPase_5.hmm",
       "alignment_file": "alignments/Cu_ATPase_5.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_ATPase_5.fasta"
     },
     {
@@ -1824,6 +1911,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_ATPase_pacS_1.hmm",
       "alignment_file": "alignments/Cu_ATPase_pacS_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_ATPase_pacS_1.fasta"
     },
     {
@@ -1842,6 +1930,7 @@
       "foldseek_hit_evalue": "6.493e-104",
       "hmm_file": "hmms/Cu_ATPase_pacS_2.hmm",
       "alignment_file": "alignments/Cu_ATPase_pacS_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_ATPase_pacS_2.fasta"
     },
     {
@@ -1858,6 +1947,7 @@
       "foldseek_hit_evalue": "4.621e-11",
       "hmm_file": "hmms/Cu_binding_pcoE_1.hmm",
       "alignment_file": "alignments/Cu_binding_pcoE_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_binding_pcoE_1.fasta"
     },
     {
@@ -1876,6 +1966,7 @@
       "foldseek_hit_evalue": "6.294e-12",
       "hmm_file": "hmms/Cu_chaperone_copZ_1.hmm",
       "alignment_file": "alignments/Cu_chaperone_copZ_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_chaperone_copZ_1.fasta"
     },
     {
@@ -1894,6 +1985,7 @@
       "foldseek_hit_evalue": "1.459e-13",
       "hmm_file": "hmms/Cu_chaperone_copZ_2.hmm",
       "alignment_file": "alignments/Cu_chaperone_copZ_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_chaperone_copZ_2.fasta"
     },
     {
@@ -1912,6 +2004,7 @@
       "foldseek_hit_evalue": "6.18e-12",
       "hmm_file": "hmms/Cu_COP_associated_1.hmm",
       "alignment_file": "alignments/Cu_COP_associated_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_COP_associated_1.fasta"
     },
     {
@@ -1930,6 +2023,7 @@
       "foldseek_hit_evalue": "6.844e-12",
       "hmm_file": "hmms/Cu_COP_associated_2.hmm",
       "alignment_file": "alignments/Cu_COP_associated_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_COP_associated_2.fasta"
     },
     {
@@ -1948,6 +2042,7 @@
       "foldseek_hit_evalue": "6.680999999999999e-103",
       "hmm_file": "hmms/Cu_oxidase_cueO_1.hmm",
       "alignment_file": "alignments/Cu_oxidase_cueO_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_oxidase_cueO_1.fasta"
     },
     {
@@ -1966,6 +2061,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_oxidase_cueO_2.hmm",
       "alignment_file": "alignments/Cu_oxidase_cueO_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_oxidase_cueO_2.fasta"
     },
     {
@@ -1982,6 +2078,7 @@
       "foldseek_hit_evalue": "4.988e-89",
       "hmm_file": "hmms/Cu_oxidase_mco_1.hmm",
       "alignment_file": "alignments/Cu_oxidase_mco_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_oxidase_mco_1.fasta"
     },
     {
@@ -2000,6 +2097,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_oxidase_mmcO_1.hmm",
       "alignment_file": "alignments/Cu_oxidase_mmcO_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_oxidase_mmcO_1.fasta"
     },
     {
@@ -2018,6 +2116,7 @@
       "foldseek_hit_evalue": "4.846e-40",
       "hmm_file": "hmms/Cu_oxidase_mmcO_2.hmm",
       "alignment_file": "alignments/Cu_oxidase_mmcO_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_oxidase_mmcO_2.fasta"
     },
     {
@@ -2034,6 +2133,7 @@
       "foldseek_hit_evalue": "4.035e-52",
       "hmm_file": "hmms/Cu_PF03932_cutC_1.hmm",
       "alignment_file": "alignments/Cu_PF03932_cutC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_PF03932_cutC_1.fasta"
     },
     {
@@ -2054,6 +2154,7 @@
       "foldseek_hit_evalue": "5.7140000000000003e-98",
       "hmm_file": "hmms/Cu_resistance_A_1.hmm",
       "alignment_file": "alignments/Cu_resistance_A_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_A_1.fasta"
     },
     {
@@ -2074,6 +2175,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_resistance_A_2.hmm",
       "alignment_file": "alignments/Cu_resistance_A_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_A_2.fasta"
     },
     {
@@ -2094,6 +2196,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_resistance_A_3.hmm",
       "alignment_file": "alignments/Cu_resistance_A_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_A_3.fasta"
     },
     {
@@ -2114,6 +2217,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_resistance_A_4.hmm",
       "alignment_file": "alignments/Cu_resistance_A_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_A_4.fasta"
     },
     {
@@ -2133,6 +2237,7 @@
       "foldseek_hit_evalue": "4.747e-35",
       "hmm_file": "hmms/Cu_resistance_B_1.hmm",
       "alignment_file": "alignments/Cu_resistance_B_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_B_1.fasta"
     },
     {
@@ -2152,6 +2257,7 @@
       "foldseek_hit_evalue": "5.354e-36",
       "hmm_file": "hmms/Cu_resistance_B_2.hmm",
       "alignment_file": "alignments/Cu_resistance_B_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_B_2.fasta"
     },
     {
@@ -2171,6 +2277,7 @@
       "foldseek_hit_evalue": "8.96e-45",
       "hmm_file": "hmms/Cu_resistance_B_3.hmm",
       "alignment_file": "alignments/Cu_resistance_B_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_B_3.fasta"
     },
     {
@@ -2191,6 +2298,7 @@
       "foldseek_hit_evalue": "6.873e-18",
       "hmm_file": "hmms/Cu_resistance_C_1.hmm",
       "alignment_file": "alignments/Cu_resistance_C_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_C_1.fasta"
     },
     {
@@ -2211,6 +2319,7 @@
       "foldseek_hit_evalue": "8.129000000000001e-20",
       "hmm_file": "hmms/Cu_resistance_C_2.hmm",
       "alignment_file": "alignments/Cu_resistance_C_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_C_2.fasta"
     },
     {
@@ -2231,6 +2340,7 @@
       "foldseek_hit_evalue": "1.648e-22",
       "hmm_file": "hmms/Cu_resistance_C_3.hmm",
       "alignment_file": "alignments/Cu_resistance_C_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_C_3.fasta"
     },
     {
@@ -2251,6 +2361,7 @@
       "foldseek_hit_evalue": "2.168e-13",
       "hmm_file": "hmms/Cu_resistance_C_4.hmm",
       "alignment_file": "alignments/Cu_resistance_C_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_C_4.fasta"
     },
     {
@@ -2270,6 +2381,7 @@
       "foldseek_hit_evalue": "4.0890000000000006e-26",
       "hmm_file": "hmms/Cu_resistance_D_1.hmm",
       "alignment_file": "alignments/Cu_resistance_D_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_D_1.fasta"
     },
     {
@@ -2289,6 +2401,7 @@
       "foldseek_hit_evalue": "2.2059999999999998e-33",
       "hmm_file": "hmms/Cu_resistance_D_2.hmm",
       "alignment_file": "alignments/Cu_resistance_D_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_D_2.fasta"
     },
     {
@@ -2308,6 +2421,7 @@
       "foldseek_hit_evalue": "1.5350000000000001e-21",
       "hmm_file": "hmms/Cu_resistance_D_3.hmm",
       "alignment_file": "alignments/Cu_resistance_D_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_D_3.fasta"
     },
     {
@@ -2324,6 +2438,7 @@
       "foldseek_hit_evalue": "1.64e-11",
       "hmm_file": "hmms/Cu_resistance_K_1.hmm",
       "alignment_file": "alignments/Cu_resistance_K_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_resistance_K_1.fasta"
     },
     {
@@ -2351,6 +2466,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_transport_ATPase_1.hmm",
       "alignment_file": "alignments/Cu_transport_ATPase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_transport_ATPase_1.fasta"
     },
     {
@@ -2378,6 +2494,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_transport_ATPase_10.hmm",
       "alignment_file": "alignments/Cu_transport_ATPase_10.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_transport_ATPase_10.fasta"
     },
     {
@@ -2405,6 +2522,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_transport_ATPase_11.hmm",
       "alignment_file": "alignments/Cu_transport_ATPase_11.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_transport_ATPase_11.fasta"
     },
     {
@@ -2432,6 +2550,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_transport_ATPase_2.hmm",
       "alignment_file": "alignments/Cu_transport_ATPase_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_transport_ATPase_2.fasta"
     },
     {
@@ -2459,6 +2578,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_transport_ATPase_3.hmm",
       "alignment_file": "alignments/Cu_transport_ATPase_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_transport_ATPase_3.fasta"
     },
     {
@@ -2486,6 +2606,7 @@
       "foldseek_hit_evalue": "5.549e-76",
       "hmm_file": "hmms/Cu_transport_ATPase_4.hmm",
       "alignment_file": "alignments/Cu_transport_ATPase_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_transport_ATPase_4.fasta"
     },
     {
@@ -2513,6 +2634,7 @@
       "foldseek_hit_evalue": "1.922e-77",
       "hmm_file": "hmms/Cu_transport_ATPase_5.hmm",
       "alignment_file": "alignments/Cu_transport_ATPase_5.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_transport_ATPase_5.fasta"
     },
     {
@@ -2540,6 +2662,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_transport_ATPase_6.hmm",
       "alignment_file": "alignments/Cu_transport_ATPase_6.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_transport_ATPase_6.fasta"
     },
     {
@@ -2567,6 +2690,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Cu_transport_ATPase_7.hmm",
       "alignment_file": "alignments/Cu_transport_ATPase_7.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_transport_ATPase_7.fasta"
     },
     {
@@ -2594,6 +2718,7 @@
       "foldseek_hit_evalue": "6.685999999999999e-88",
       "hmm_file": "hmms/Cu_transport_ATPase_8.hmm",
       "alignment_file": "alignments/Cu_transport_ATPase_8.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_transport_ATPase_8.fasta"
     },
     {
@@ -2621,6 +2746,7 @@
       "foldseek_hit_evalue": "1.783e-08",
       "hmm_file": "hmms/Cu_transport_ATPase_9.hmm",
       "alignment_file": "alignments/Cu_transport_ATPase_9.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_transport_ATPase_9.fasta"
     },
     {
@@ -2637,6 +2763,7 @@
       "foldseek_hit_evalue": "8.164e-59",
       "hmm_file": "hmms/Cu_transport_mctB_1.hmm",
       "alignment_file": "alignments/Cu_transport_mctB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_transport_mctB_1.fasta"
     },
     {
@@ -2655,6 +2782,7 @@
       "foldseek_hit_evalue": "7.119e-84",
       "hmm_file": "hmms/Cu_transport_ycnJ_1.hmm",
       "alignment_file": "alignments/Cu_transport_ycnJ_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_transport_ycnJ_1.fasta"
     },
     {
@@ -2673,6 +2801,7 @@
       "foldseek_hit_evalue": "0.000212",
       "hmm_file": "hmms/Cu_transport_ycnJ_2.hmm",
       "alignment_file": "alignments/Cu_transport_ycnJ_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Cu_transport_ycnJ_2.fasta"
     },
     {
@@ -2690,6 +2819,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/CuAg_cusA_1.hmm",
       "alignment_file": "alignments/CuAg_cusA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CuAg_cusA_1.fasta"
     },
     {
@@ -2707,6 +2837,7 @@
       "foldseek_hit_evalue": "5.08e-67",
       "hmm_file": "hmms/CuAg_cusB_1.hmm",
       "alignment_file": "alignments/CuAg_cusB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CuAg_cusB_1.fasta"
     },
     {
@@ -2724,6 +2855,7 @@
       "foldseek_hit_evalue": "5.044e-61",
       "hmm_file": "hmms/CuAg_cusC_1.hmm",
       "alignment_file": "alignments/CuAg_cusC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CuAg_cusC_1.fasta"
     },
     {
@@ -2741,6 +2873,7 @@
       "foldseek_hit_evalue": "2.872e-20",
       "hmm_file": "hmms/CuAg_cusF_1.hmm",
       "alignment_file": "alignments/CuAg_cusF_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CuAg_cusF_1.fasta"
     },
     {
@@ -2758,6 +2891,7 @@
       "foldseek_hit_evalue": "2.884e-98",
       "hmm_file": "hmms/CuNi_ATPase_1.hmm",
       "alignment_file": "alignments/CuNi_ATPase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/CuNi_ATPase_1.fasta"
     },
     {
@@ -2774,6 +2908,7 @@
       "foldseek_hit_evalue": "7.386e-54",
       "hmm_file": "hmms/Fe_binding_yfeA_1.hmm",
       "alignment_file": "alignments/Fe_binding_yfeA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Fe_binding_yfeA_1.fasta"
     },
     {
@@ -2790,6 +2925,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Fe_ferripyoverdine_receptor_1.hmm",
       "alignment_file": "alignments/Fe_ferripyoverdine_receptor_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Fe_ferripyoverdine_receptor_1.fasta"
     },
     {
@@ -2806,6 +2942,7 @@
       "foldseek_hit_evalue": "4.977e-62",
       "hmm_file": "hmms/Fe_periplasmic_1.hmm",
       "alignment_file": "alignments/Fe_periplasmic_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Fe_periplasmic_1.fasta"
     },
     {
@@ -2822,6 +2959,7 @@
       "foldseek_hit_evalue": "2.14e-11",
       "hmm_file": "hmms/Fe_permease_efeU_1.hmm",
       "alignment_file": "alignments/Fe_permease_efeU_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Fe_permease_efeU_1.fasta"
     },
     {
@@ -2838,6 +2976,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Fe_pyochelin_1.hmm",
       "alignment_file": "alignments/Fe_pyochelin_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Fe_pyochelin_1.fasta"
     },
     {
@@ -2854,6 +2993,7 @@
       "foldseek_hit_evalue": "2.792e-34",
       "hmm_file": "hmms/Fe_superoxide_dismutase_1.hmm",
       "alignment_file": "alignments/Fe_superoxide_dismutase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Fe_superoxide_dismutase_1.fasta"
     },
     {
@@ -2873,6 +3013,7 @@
       "foldseek_hit_evalue": "7.23e-60",
       "hmm_file": "hmms/Fe_transport_1.hmm",
       "alignment_file": "alignments/Fe_transport_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Fe_transport_1.fasta"
     },
     {
@@ -2892,6 +3033,7 @@
       "foldseek_hit_evalue": "4.681e-36",
       "hmm_file": "hmms/Fe_transport_2.hmm",
       "alignment_file": "alignments/Fe_transport_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Fe_transport_2.fasta"
     },
     {
@@ -2911,6 +3053,7 @@
       "foldseek_hit_evalue": "1.609e-34",
       "hmm_file": "hmms/Fe_transport_3.hmm",
       "alignment_file": "alignments/Fe_transport_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Fe_transport_3.fasta"
     },
     {
@@ -2927,6 +3070,7 @@
       "foldseek_hit_evalue": "1.111e-58",
       "hmm_file": "hmms/Fe_transport_fbpB_1.hmm",
       "alignment_file": "alignments/Fe_transport_fbpB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Fe_transport_fbpB_1.fasta"
     },
     {
@@ -2943,6 +3087,7 @@
       "foldseek_hit_evalue": "2.289e-73",
       "hmm_file": "hmms/Fe_transport_fbpC_1.hmm",
       "alignment_file": "alignments/Fe_transport_fbpC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Fe_transport_fbpC_1.fasta"
     },
     {
@@ -2959,6 +3104,7 @@
       "foldseek_hit_evalue": "1.664e-39",
       "hmm_file": "hmms/Fe_transport_fecD_1.hmm",
       "alignment_file": "alignments/Fe_transport_fecD_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Fe_transport_fecD_1.fasta"
     },
     {
@@ -2975,6 +3121,7 @@
       "foldseek_hit_evalue": "4.0189999999999997e-53",
       "hmm_file": "hmms/Fe_transport_fecE_1.hmm",
       "alignment_file": "alignments/Fe_transport_fecE_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Fe_transport_fecE_1.fasta"
     },
     {
@@ -2996,6 +3143,7 @@
       "foldseek_hit_evalue": "1.0129999999999999e-45",
       "hmm_file": "hmms/FMN_reductase_arsH_1.hmm",
       "alignment_file": "alignments/FMN_reductase_arsH_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/FMN_reductase_arsH_1.fasta"
     },
     {
@@ -3017,6 +3165,7 @@
       "foldseek_hit_evalue": "2.245e-49",
       "hmm_file": "hmms/FMN_reductase_arsH_2.hmm",
       "alignment_file": "alignments/FMN_reductase_arsH_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/FMN_reductase_arsH_2.fasta"
     },
     {
@@ -3038,6 +3187,7 @@
       "foldseek_hit_evalue": "1.5150000000000001e-34",
       "hmm_file": "hmms/FMN_reductase_arsH_3.hmm",
       "alignment_file": "alignments/FMN_reductase_arsH_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/FMN_reductase_arsH_3.fasta"
     },
     {
@@ -3059,6 +3209,7 @@
       "foldseek_hit_evalue": "6.952e-45",
       "hmm_file": "hmms/FMN_reductase_arsH_4.hmm",
       "alignment_file": "alignments/FMN_reductase_arsH_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/FMN_reductase_arsH_4.fasta"
     },
     {
@@ -3080,6 +3231,7 @@
       "foldseek_hit_evalue": "1.6979999999999998e-44",
       "hmm_file": "hmms/FMN_reductase_arsH_5.hmm",
       "alignment_file": "alignments/FMN_reductase_arsH_5.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/FMN_reductase_arsH_5.fasta"
     },
     {
@@ -3096,6 +3248,7 @@
       "foldseek_hit_evalue": "1.787e-09",
       "hmm_file": "hmms/Hg_merE_1.hmm",
       "alignment_file": "alignments/Hg_merE_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_merE_1.fasta"
     },
     {
@@ -3124,6 +3277,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Hg_reductase_1.hmm",
       "alignment_file": "alignments/Hg_reductase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_reductase_1.fasta"
     },
     {
@@ -3152,6 +3306,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Hg_reductase_10.hmm",
       "alignment_file": "alignments/Hg_reductase_10.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_reductase_10.fasta"
     },
     {
@@ -3180,6 +3335,7 @@
       "foldseek_hit_evalue": "4.345e-23",
       "hmm_file": "hmms/Hg_reductase_11.hmm",
       "alignment_file": "alignments/Hg_reductase_11.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_reductase_11.fasta"
     },
     {
@@ -3208,6 +3364,7 @@
       "foldseek_hit_evalue": "7.327e-96",
       "hmm_file": "hmms/Hg_reductase_12.hmm",
       "alignment_file": "alignments/Hg_reductase_12.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_reductase_12.fasta"
     },
     {
@@ -3236,6 +3393,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Hg_reductase_2.hmm",
       "alignment_file": "alignments/Hg_reductase_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_reductase_2.fasta"
     },
     {
@@ -3264,6 +3422,7 @@
       "foldseek_hit_evalue": "1.404e-66",
       "hmm_file": "hmms/Hg_reductase_3.hmm",
       "alignment_file": "alignments/Hg_reductase_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_reductase_3.fasta"
     },
     {
@@ -3292,6 +3451,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Hg_reductase_4.hmm",
       "alignment_file": "alignments/Hg_reductase_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_reductase_4.fasta"
     },
     {
@@ -3320,6 +3480,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Hg_reductase_5.hmm",
       "alignment_file": "alignments/Hg_reductase_5.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_reductase_5.fasta"
     },
     {
@@ -3348,6 +3509,7 @@
       "foldseek_hit_evalue": "1.303e-100",
       "hmm_file": "hmms/Hg_reductase_6.hmm",
       "alignment_file": "alignments/Hg_reductase_6.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_reductase_6.fasta"
     },
     {
@@ -3376,6 +3538,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Hg_reductase_7.hmm",
       "alignment_file": "alignments/Hg_reductase_7.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_reductase_7.fasta"
     },
     {
@@ -3404,6 +3567,7 @@
       "foldseek_hit_evalue": "7.881e-28",
       "hmm_file": "hmms/Hg_reductase_8.hmm",
       "alignment_file": "alignments/Hg_reductase_8.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_reductase_8.fasta"
     },
     {
@@ -3432,6 +3596,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Hg_reductase_9.hmm",
       "alignment_file": "alignments/Hg_reductase_9.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_reductase_9.fasta"
     },
     {
@@ -3448,6 +3613,7 @@
       "foldseek_hit_evalue": "3.813e-16",
       "hmm_file": "hmms/Hg_transport_1.hmm",
       "alignment_file": "alignments/Hg_transport_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_1.fasta"
     },
     {
@@ -3466,6 +3632,7 @@
       "foldseek_hit_evalue": "7.6e-14",
       "hmm_file": "hmms/Hg_transport_merC_1.hmm",
       "alignment_file": "alignments/Hg_transport_merC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_merC_1.fasta"
     },
     {
@@ -3484,6 +3651,7 @@
       "foldseek_hit_evalue": "4.529e-09",
       "hmm_file": "hmms/Hg_transport_merC_2.hmm",
       "alignment_file": "alignments/Hg_transport_merC_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_merC_2.fasta"
     },
     {
@@ -3504,6 +3672,7 @@
       "foldseek_hit_evalue": "7.511e-14",
       "hmm_file": "hmms/Hg_transport_merT_1.hmm",
       "alignment_file": "alignments/Hg_transport_merT_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_merT_1.fasta"
     },
     {
@@ -3524,6 +3693,7 @@
       "foldseek_hit_evalue": "4.199e-12",
       "hmm_file": "hmms/Hg_transport_merT_2.hmm",
       "alignment_file": "alignments/Hg_transport_merT_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_merT_2.fasta"
     },
     {
@@ -3544,6 +3714,7 @@
       "foldseek_hit_evalue": "3.568e-12",
       "hmm_file": "hmms/Hg_transport_merT_3.hmm",
       "alignment_file": "alignments/Hg_transport_merT_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_merT_3.fasta"
     },
     {
@@ -3564,6 +3735,7 @@
       "foldseek_hit_evalue": "3.195e-15",
       "hmm_file": "hmms/Hg_transport_merT_4.hmm",
       "alignment_file": "alignments/Hg_transport_merT_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_merT_4.fasta"
     },
     {
@@ -3592,6 +3764,7 @@
       "foldseek_hit_evalue": "8.89e-17",
       "hmm_file": "hmms/Hg_transport_periplasmic_1.hmm",
       "alignment_file": "alignments/Hg_transport_periplasmic_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_periplasmic_1.fasta"
     },
     {
@@ -3620,6 +3793,7 @@
       "foldseek_hit_evalue": "2.476e-16",
       "hmm_file": "hmms/Hg_transport_periplasmic_10.hmm",
       "alignment_file": "alignments/Hg_transport_periplasmic_10.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_periplasmic_10.fasta"
     },
     {
@@ -3648,6 +3822,7 @@
       "foldseek_hit_evalue": "1.294e-16",
       "hmm_file": "hmms/Hg_transport_periplasmic_11.hmm",
       "alignment_file": "alignments/Hg_transport_periplasmic_11.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_periplasmic_11.fasta"
     },
     {
@@ -3676,6 +3851,7 @@
       "foldseek_hit_evalue": "5.698e-16",
       "hmm_file": "hmms/Hg_transport_periplasmic_12.hmm",
       "alignment_file": "alignments/Hg_transport_periplasmic_12.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_periplasmic_12.fasta"
     },
     {
@@ -3704,6 +3880,7 @@
       "foldseek_hit_evalue": "9.4e-16",
       "hmm_file": "hmms/Hg_transport_periplasmic_2.hmm",
       "alignment_file": "alignments/Hg_transport_periplasmic_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_periplasmic_2.fasta"
     },
     {
@@ -3732,6 +3909,7 @@
       "foldseek_hit_evalue": "9.93e-05",
       "hmm_file": "hmms/Hg_transport_periplasmic_3.hmm",
       "alignment_file": "alignments/Hg_transport_periplasmic_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_periplasmic_3.fasta"
     },
     {
@@ -3760,6 +3938,7 @@
       "foldseek_hit_evalue": "6.862e-15",
       "hmm_file": "hmms/Hg_transport_periplasmic_4.hmm",
       "alignment_file": "alignments/Hg_transport_periplasmic_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_periplasmic_4.fasta"
     },
     {
@@ -3788,6 +3967,7 @@
       "foldseek_hit_evalue": "7.323e-12",
       "hmm_file": "hmms/Hg_transport_periplasmic_5.hmm",
       "alignment_file": "alignments/Hg_transport_periplasmic_5.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_periplasmic_5.fasta"
     },
     {
@@ -3816,6 +3996,7 @@
       "foldseek_hit_evalue": "4.187e-13",
       "hmm_file": "hmms/Hg_transport_periplasmic_6.hmm",
       "alignment_file": "alignments/Hg_transport_periplasmic_6.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_periplasmic_6.fasta"
     },
     {
@@ -3844,6 +4025,7 @@
       "foldseek_hit_evalue": "8.792e-15",
       "hmm_file": "hmms/Hg_transport_periplasmic_7.hmm",
       "alignment_file": "alignments/Hg_transport_periplasmic_7.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_periplasmic_7.fasta"
     },
     {
@@ -3872,6 +4054,7 @@
       "foldseek_hit_evalue": "4.976e-05",
       "hmm_file": "hmms/Hg_transport_periplasmic_8.hmm",
       "alignment_file": "alignments/Hg_transport_periplasmic_8.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_periplasmic_8.fasta"
     },
     {
@@ -3900,6 +4083,7 @@
       "foldseek_hit_evalue": "5.776e-07",
       "hmm_file": "hmms/Hg_transport_periplasmic_9.hmm",
       "alignment_file": "alignments/Hg_transport_periplasmic_9.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Hg_transport_periplasmic_9.fasta"
     },
     {
@@ -3916,6 +4100,7 @@
       "foldseek_hit_evalue": "3.321e-44",
       "hmm_file": "hmms/Metal_binding_zinT_1.hmm",
       "alignment_file": "alignments/Metal_binding_zinT_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Metal_binding_zinT_1.fasta"
     },
     {
@@ -3932,6 +4117,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Mg_transport_ATPase_1.hmm",
       "alignment_file": "alignments/Mg_transport_ATPase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Mg_transport_ATPase_1.fasta"
     },
     {
@@ -3948,6 +4134,7 @@
       "foldseek_hit_evalue": "2.371e-49",
       "hmm_file": "hmms/Mg_transport_corA_1.hmm",
       "alignment_file": "alignments/Mg_transport_corA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Mg_transport_corA_1.fasta"
     },
     {
@@ -3965,6 +4152,7 @@
       "foldseek_hit_evalue": "5.098999999999999e-60",
       "hmm_file": "hmms/MgCo_corC_1.hmm",
       "alignment_file": "alignments/MgCo_corC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/MgCo_corC_1.fasta"
     },
     {
@@ -3981,6 +4169,7 @@
       "foldseek_hit_evalue": "4.5429999999999995e-54",
       "hmm_file": "hmms/Mn_binding_mntA_1.hmm",
       "alignment_file": "alignments/Mn_binding_mntA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Mn_binding_mntA_1.fasta"
     },
     {
@@ -3997,6 +4186,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Mn_transport_ATPase_1.hmm",
       "alignment_file": "alignments/Mn_transport_ATPase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Mn_transport_ATPase_1.fasta"
     },
     {
@@ -4013,6 +4203,7 @@
       "foldseek_hit_evalue": "9.887000000000001e-55",
       "hmm_file": "hmms/Mo_binding_modA_1.hmm",
       "alignment_file": "alignments/Mo_binding_modA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Mo_binding_modA_1.fasta"
     },
     {
@@ -4029,6 +4220,7 @@
       "foldseek_hit_evalue": "2.704e-18",
       "hmm_file": "hmms/Mo_binding_molA_1.hmm",
       "alignment_file": "alignments/Mo_binding_molA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Mo_binding_molA_1.fasta"
     },
     {
@@ -4047,6 +4239,7 @@
       "foldseek_hit_evalue": "3.523e-24",
       "hmm_file": "hmms/Multidrug_efflux_yfmO_1.hmm",
       "alignment_file": "alignments/Multidrug_efflux_yfmO_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Multidrug_efflux_yfmO_1.fasta"
     },
     {
@@ -4065,6 +4258,7 @@
       "foldseek_hit_evalue": "4.593999999999999e-47",
       "hmm_file": "hmms/Multidrug_efflux_yfmO_2.hmm",
       "alignment_file": "alignments/Multidrug_efflux_yfmO_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Multidrug_efflux_yfmO_2.fasta"
     },
     {
@@ -4081,6 +4275,7 @@
       "foldseek_hit_evalue": "2.038e-74",
       "hmm_file": "hmms/Multidrug_resistance_mdtA_1.hmm",
       "alignment_file": "alignments/Multidrug_resistance_mdtA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Multidrug_resistance_mdtA_1.fasta"
     },
     {
@@ -4097,6 +4292,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Multidrug_resistance_mdtB_1.hmm",
       "alignment_file": "alignments/Multidrug_resistance_mdtB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Multidrug_resistance_mdtB_1.fasta"
     },
     {
@@ -4113,6 +4309,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Multidrug_resistance_mdtC_1.hmm",
       "alignment_file": "alignments/Multidrug_resistance_mdtC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Multidrug_resistance_mdtC_1.fasta"
     },
     {
@@ -4129,6 +4326,7 @@
       "foldseek_hit_evalue": "1.4969999999999999e-52",
       "hmm_file": "hmms/Ni_import_nikD_1.hmm",
       "alignment_file": "alignments/Ni_import_nikD_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Ni_import_nikD_1.fasta"
     },
     {
@@ -4145,6 +4343,7 @@
       "foldseek_hit_evalue": "6.092e-54",
       "hmm_file": "hmms/Ni_Import_nikE_1.hmm",
       "alignment_file": "alignments/Ni_Import_nikE_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Ni_Import_nikE_1.fasta"
     },
     {
@@ -4161,6 +4360,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Ni_periplasmic_1.hmm",
       "alignment_file": "alignments/Ni_periplasmic_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Ni_periplasmic_1.fasta"
     },
     {
@@ -4177,6 +4377,7 @@
       "foldseek_hit_evalue": "1.0829999999999999e-39",
       "hmm_file": "hmms/Ni_permease_nikB_1.hmm",
       "alignment_file": "alignments/Ni_permease_nikB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Ni_permease_nikB_1.fasta"
     },
     {
@@ -4193,6 +4394,7 @@
       "foldseek_hit_evalue": "2.337e-36",
       "hmm_file": "hmms/Ni_permease_nikC_1.hmm",
       "alignment_file": "alignments/Ni_permease_nikC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Ni_permease_nikC_1.fasta"
     },
     {
@@ -4211,6 +4413,7 @@
       "foldseek_hit_evalue": "1.037e-21",
       "hmm_file": "hmms/Ni_protein_hupE_1.hmm",
       "alignment_file": "alignments/Ni_protein_hupE_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Ni_protein_hupE_1.fasta"
     },
     {
@@ -4229,6 +4432,7 @@
       "foldseek_hit_evalue": "3.719e-13",
       "hmm_file": "hmms/Ni_protein_hupE_2.hmm",
       "alignment_file": "alignments/Ni_protein_hupE_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Ni_protein_hupE_2.fasta"
     },
     {
@@ -4245,6 +4449,7 @@
       "foldseek_hit_evalue": "1.132e-37",
       "hmm_file": "hmms/Ni_transport_nixA_1.hmm",
       "alignment_file": "alignments/Ni_transport_nixA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Ni_transport_nixA_1.fasta"
     },
     {
@@ -4262,6 +4467,7 @@
       "foldseek_hit_evalue": "1.36e-36",
       "hmm_file": "hmms/NiCo_efflux_1.hmm",
       "alignment_file": "alignments/NiCo_efflux_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCo_efflux_1.fasta"
     },
     {
@@ -4284,6 +4490,7 @@
       "foldseek_hit_evalue": "5.238e-24",
       "hmm_file": "hmms/NiCo_efflux_rcnA_1.hmm",
       "alignment_file": "alignments/NiCo_efflux_rcnA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCo_efflux_rcnA_1.fasta"
     },
     {
@@ -4306,6 +4513,7 @@
       "foldseek_hit_evalue": "2.613e-23",
       "hmm_file": "hmms/NiCo_efflux_rcnA_2.hmm",
       "alignment_file": "alignments/NiCo_efflux_rcnA_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCo_efflux_rcnA_2.fasta"
     },
     {
@@ -4328,6 +4536,7 @@
       "foldseek_hit_evalue": "4.714e-31",
       "hmm_file": "hmms/NiCo_efflux_rcnA_3.hmm",
       "alignment_file": "alignments/NiCo_efflux_rcnA_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCo_efflux_rcnA_3.fasta"
     },
     {
@@ -4350,6 +4559,7 @@
       "foldseek_hit_evalue": "2.681e-20",
       "hmm_file": "hmms/NiCo_efflux_rcnA_4.hmm",
       "alignment_file": "alignments/NiCo_efflux_rcnA_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCo_efflux_rcnA_4.fasta"
     },
     {
@@ -4372,6 +4582,7 @@
       "foldseek_hit_evalue": "3.1829999999999996e-23",
       "hmm_file": "hmms/NiCo_efflux_rcnA_5.hmm",
       "alignment_file": "alignments/NiCo_efflux_rcnA_5.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCo_efflux_rcnA_5.fasta"
     },
     {
@@ -4391,6 +4602,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/NiCo_resistance_cnrA_1.hmm",
       "alignment_file": "alignments/NiCo_resistance_cnrA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCo_resistance_cnrA_1.fasta"
     },
     {
@@ -4410,6 +4622,7 @@
       "foldseek_hit_evalue": "5.717e-37",
       "hmm_file": "hmms/NiCo_resistance_cnrA_2.hmm",
       "alignment_file": "alignments/NiCo_resistance_cnrA_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCo_resistance_cnrA_2.fasta"
     },
     {
@@ -4427,6 +4640,7 @@
       "foldseek_hit_evalue": "2.855e-64",
       "hmm_file": "hmms/NiCo_resistance_cnrB_1.hmm",
       "alignment_file": "alignments/NiCo_resistance_cnrB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCo_resistance_cnrB_1.fasta"
     },
     {
@@ -4447,6 +4661,7 @@
       "foldseek_hit_evalue": "2.8379999999999998e-52",
       "hmm_file": "hmms/NiCo_resistance_cnrC_1.hmm",
       "alignment_file": "alignments/NiCo_resistance_cnrC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCo_resistance_cnrC_1.fasta"
     },
     {
@@ -4467,6 +4682,7 @@
       "foldseek_hit_evalue": "1.417e-15",
       "hmm_file": "hmms/NiCo_resistance_cnrC_2.hmm",
       "alignment_file": "alignments/NiCo_resistance_cnrC_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCo_resistance_cnrC_2.fasta"
     },
     {
@@ -4487,6 +4703,7 @@
       "foldseek_hit_evalue": "2.213e-16",
       "hmm_file": "hmms/NiCo_resistance_cnrC_3.hmm",
       "alignment_file": "alignments/NiCo_resistance_cnrC_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCo_resistance_cnrC_3.fasta"
     },
     {
@@ -4507,6 +4724,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/NiCoCd_resistance_nccA_1.hmm",
       "alignment_file": "alignments/NiCoCd_resistance_nccA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCoCd_resistance_nccA_1.fasta"
     },
     {
@@ -4527,6 +4745,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/NiCoCd_resistance_nccA_2.hmm",
       "alignment_file": "alignments/NiCoCd_resistance_nccA_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCoCd_resistance_nccA_2.fasta"
     },
     {
@@ -4547,6 +4766,7 @@
       "foldseek_hit_evalue": "8.726e-65",
       "hmm_file": "hmms/NiCoCd_resistance_nccB_1.hmm",
       "alignment_file": "alignments/NiCoCd_resistance_nccB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCoCd_resistance_nccB_1.fasta"
     },
     {
@@ -4567,6 +4787,7 @@
       "foldseek_hit_evalue": "2.328e-24",
       "hmm_file": "hmms/NiCoCd_resistance_nccB_2.hmm",
       "alignment_file": "alignments/NiCoCd_resistance_nccB_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCoCd_resistance_nccB_2.fasta"
     },
     {
@@ -4585,6 +4806,7 @@
       "foldseek_hit_evalue": "1.1999999999999999e-54",
       "hmm_file": "hmms/NiCoCd_resistance_nccC_1.hmm",
       "alignment_file": "alignments/NiCoCd_resistance_nccC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCoCd_resistance_nccC_1.fasta"
     },
     {
@@ -4603,6 +4825,7 @@
       "foldseek_hit_evalue": "2.1470000000000002e-32",
       "hmm_file": "hmms/NiCoCd_resistance_nccN_1.hmm",
       "alignment_file": "alignments/NiCoCd_resistance_nccN_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/NiCoCd_resistance_nccN_1.fasta"
     },
     {
@@ -4619,6 +4842,7 @@
       "foldseek_hit_evalue": "2.2419999999999998e-39",
       "hmm_file": "hmms/Quinone_reductase_arsH_1.hmm",
       "alignment_file": "alignments/Quinone_reductase_arsH_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Quinone_reductase_arsH_1.fasta"
     },
     {
@@ -4635,6 +4859,7 @@
       "foldseek_hit_evalue": "2.3010000000000002e-42",
       "hmm_file": "hmms/Te_protein_klaB_1.hmm",
       "alignment_file": "alignments/Te_protein_klaB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Te_protein_klaB_1.fasta"
     },
     {
@@ -4653,6 +4878,7 @@
       "foldseek_hit_evalue": "6.364e-35",
       "hmm_file": "hmms/Te_protein_klaC_1.hmm",
       "alignment_file": "alignments/Te_protein_klaC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Te_protein_klaC_1.fasta"
     },
     {
@@ -4671,6 +4897,7 @@
       "foldseek_hit_evalue": "2.2990000000000002e-36",
       "hmm_file": "hmms/Te_protein_klaC_2.hmm",
       "alignment_file": "alignments/Te_protein_klaC_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Te_protein_klaC_2.fasta"
     },
     {
@@ -4689,6 +4916,7 @@
       "foldseek_hit_evalue": "8.625e-56",
       "hmm_file": "hmms/Te_resistance_terA_1.hmm",
       "alignment_file": "alignments/Te_resistance_terA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Te_resistance_terA_1.fasta"
     },
     {
@@ -4707,6 +4935,7 @@
       "foldseek_hit_evalue": "5.404e-63",
       "hmm_file": "hmms/Te_resistance_terA_2.hmm",
       "alignment_file": "alignments/Te_resistance_terA_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Te_resistance_terA_2.fasta"
     },
     {
@@ -4727,6 +4956,7 @@
       "foldseek_hit_evalue": "1.024e-11",
       "hmm_file": "hmms/Te_resistance_terB_1.hmm",
       "alignment_file": "alignments/Te_resistance_terB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Te_resistance_terB_1.fasta"
     },
     {
@@ -4747,6 +4977,7 @@
       "foldseek_hit_evalue": "3.436e-12",
       "hmm_file": "hmms/Te_resistance_terB_2.hmm",
       "alignment_file": "alignments/Te_resistance_terB_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Te_resistance_terB_2.fasta"
     },
     {
@@ -4767,6 +4998,7 @@
       "foldseek_hit_evalue": "3.192e-13",
       "hmm_file": "hmms/Te_resistance_terB_3.hmm",
       "alignment_file": "alignments/Te_resistance_terB_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Te_resistance_terB_3.fasta"
     },
     {
@@ -4787,6 +5019,7 @@
       "foldseek_hit_evalue": "2.061e-12",
       "hmm_file": "hmms/Te_resistance_terB_4.hmm",
       "alignment_file": "alignments/Te_resistance_terB_4.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Te_resistance_terB_4.fasta"
     },
     {
@@ -4803,6 +5036,7 @@
       "foldseek_hit_evalue": "3.1550000000000003e-42",
       "hmm_file": "hmms/Te_resistance_terC_1.hmm",
       "alignment_file": "alignments/Te_resistance_terC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Te_resistance_terC_1.fasta"
     },
     {
@@ -4819,6 +5053,7 @@
       "foldseek_hit_evalue": "1.04e-37",
       "hmm_file": "hmms/Te_resistance_terD_1.hmm",
       "alignment_file": "alignments/Te_resistance_terD_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Te_resistance_terD_1.fasta"
     },
     {
@@ -4835,6 +5070,7 @@
       "foldseek_hit_evalue": "5.203999999999999e-38",
       "hmm_file": "hmms/Te_resistance_terE_1.hmm",
       "alignment_file": "alignments/Te_resistance_terE_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Te_resistance_terE_1.fasta"
     },
     {
@@ -4851,6 +5087,7 @@
       "foldseek_hit_evalue": "7.420999999999999e-39",
       "hmm_file": "hmms/Te_resistance_terZ_1.hmm",
       "alignment_file": "alignments/Te_resistance_terZ_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Te_resistance_terZ_1.fasta"
     },
     {
@@ -4869,6 +5106,7 @@
       "foldseek_hit_evalue": "8.488e-63",
       "hmm_file": "hmms/Zn_ATPase_1.hmm",
       "alignment_file": "alignments/Zn_ATPase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Zn_ATPase_1.fasta"
     },
     {
@@ -4887,6 +5125,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/Zn_ATPase_2.hmm",
       "alignment_file": "alignments/Zn_ATPase_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Zn_ATPase_2.fasta"
     },
     {
@@ -4903,6 +5142,7 @@
       "foldseek_hit_evalue": "5.142e-55",
       "hmm_file": "hmms/Zn_binding_troA_1.hmm",
       "alignment_file": "alignments/Zn_binding_troA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Zn_binding_troA_1.fasta"
     },
     {
@@ -4919,6 +5159,7 @@
       "foldseek_hit_evalue": "5.169e-52",
       "hmm_file": "hmms/Zn_import_znuC_1.hmm",
       "alignment_file": "alignments/Zn_import_znuC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Zn_import_znuC_1.fasta"
     },
     {
@@ -4935,6 +5176,7 @@
       "foldseek_hit_evalue": "1.427e-13",
       "hmm_file": "hmms/Zn_transport_gufA_1.hmm",
       "alignment_file": "alignments/Zn_transport_gufA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Zn_transport_gufA_1.fasta"
     },
     {
@@ -4951,6 +5193,7 @@
       "foldseek_hit_evalue": "1.2039999999999999e-51",
       "hmm_file": "hmms/Zn_transport_troB_1.hmm",
       "alignment_file": "alignments/Zn_transport_troB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Zn_transport_troB_1.fasta"
     },
     {
@@ -4967,6 +5210,7 @@
       "foldseek_hit_evalue": "1.4870000000000001e-34",
       "hmm_file": "hmms/Zn_transport_troC_1.hmm",
       "alignment_file": "alignments/Zn_transport_troC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Zn_transport_troC_1.fasta"
     },
     {
@@ -4983,6 +5227,7 @@
       "foldseek_hit_evalue": "1.536e-43",
       "hmm_file": "hmms/Zn_transport_troD_1.hmm",
       "alignment_file": "alignments/Zn_transport_troD_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Zn_transport_troD_1.fasta"
     },
     {
@@ -4999,6 +5244,7 @@
       "foldseek_hit_evalue": "1.104e-42",
       "hmm_file": "hmms/Zn_transport_zitB_1.hmm",
       "alignment_file": "alignments/Zn_transport_zitB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Zn_transport_zitB_1.fasta"
     },
     {
@@ -5015,6 +5261,7 @@
       "foldseek_hit_evalue": "6.615000000000001e-30",
       "hmm_file": "hmms/Zn_transport_zupT_1.hmm",
       "alignment_file": "alignments/Zn_transport_zupT_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Zn_transport_zupT_1.fasta"
     },
     {
@@ -5031,6 +5278,7 @@
       "foldseek_hit_evalue": "4.187e-55",
       "hmm_file": "hmms/Zn_uptake_znuA_1.hmm",
       "alignment_file": "alignments/Zn_uptake_znuA_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Zn_uptake_znuA_1.fasta"
     },
     {
@@ -5049,6 +5297,7 @@
       "foldseek_hit_evalue": "1.069e-31",
       "hmm_file": "hmms/Zn_uptake_znuB_1.hmm",
       "alignment_file": "alignments/Zn_uptake_znuB_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Zn_uptake_znuB_1.fasta"
     },
     {
@@ -5067,6 +5316,7 @@
       "foldseek_hit_evalue": "1.362e-31",
       "hmm_file": "hmms/Zn_uptake_znuB_2.hmm",
       "alignment_file": "alignments/Zn_uptake_znuB_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Zn_uptake_znuB_2.fasta"
     },
     {
@@ -5083,6 +5333,7 @@
       "foldseek_hit_evalue": "1.868e-47",
       "hmm_file": "hmms/Zn_uptake_znuC_1.hmm",
       "alignment_file": "alignments/Zn_uptake_znuC_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/Zn_uptake_znuC_1.fasta"
     },
     {
@@ -5104,6 +5355,7 @@
       "foldseek_hit_evalue": "4.731e-17",
       "hmm_file": "hmms/ZnCdPb_ATPase_1.hmm",
       "alignment_file": "alignments/ZnCdPb_ATPase_1.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/ZnCdPb_ATPase_1.fasta"
     },
     {
@@ -5125,6 +5377,7 @@
       "foldseek_hit_evalue": "0.0",
       "hmm_file": "hmms/ZnCdPb_ATPase_2.hmm",
       "alignment_file": "alignments/ZnCdPb_ATPase_2.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/ZnCdPb_ATPase_2.fasta"
     },
     {
@@ -5146,6 +5399,7 @@
       "foldseek_hit_evalue": "8.134e-17",
       "hmm_file": "hmms/ZnCdPb_ATPase_3.hmm",
       "alignment_file": "alignments/ZnCdPb_ATPase_3.aln",
+      "structure_file:": "structures/temp.pdb",
       "sequence_file": "sequences/ZnCdPb_ATPase_3.fasta"
     }
   ],

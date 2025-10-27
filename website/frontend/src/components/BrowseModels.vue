@@ -23,9 +23,10 @@ import {
   Settings2,
   SortAsc,
   SortDesc,
-  Database,
+  LineSquiggle,
   FileText,
   AlignLeft,
+  Dna
 } from "lucide-vue-next";
 
 // --- Reactive State ---
@@ -519,7 +520,7 @@ function getPageNumbers(
                       class="inline h-4 w-4"
                     />
                   </TableHead>
-                  <TableHead>Downloads</TableHead>
+                  <TableHead class="pl-10">Downloads</TableHead>
                 </TableRow>
               </TableHeader>
               <TableBody>
@@ -560,7 +561,15 @@ function getPageNumbers(
                         @click="downloadFile(model.sequence_file)"
                         title="Download Sequences"
                       >
-                        <Database class="h-4 w-4" />
+                        <Dna class="h-4 w-4" />
+                      </Button>
+                      <Button
+                        variant="ghost"
+                        size="icon"
+                        @click="downloadFile(model.structure_file)"
+                        title="Download Rep. Protein Structure"
+                      >
+                        <LineSquiggle class="h-4 w-4"/>
                       </Button>
                     </div>
                   </TableCell>
